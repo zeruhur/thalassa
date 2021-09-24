@@ -2,7 +2,7 @@
 
 **Thálassa** is based on [*Cairn SRD*](https://cairnrpg.com/) and is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Thálassa is an adventure game for one facilitator (the odigós or οδηγός) and at least one other player. Players act as fearless explorers of the Mediterranean of the Mythical Age, studded with mysterious islands, thick forests, legendary creatures, labyrinths and dangers.
+Thálassa is an adventure game for one facilitator (the odigós) and at least one other player. Players act as fearless explorers of the Mediterranean of the Mythical Age, studded with mysterious islands, thick forests, legendary creatures, labyrinths and dangers.
 
 ## Index
 - [Overview](#overview)
@@ -135,7 +135,7 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ## Principles of the World
 
-### hē thálassa (the Mediterranean Sea)
+### The Mediterranean Sea (hē thálassa)
 - 
 
 ### The Gods
@@ -154,10 +154,10 @@ Players trust one another to engage with the shared setting, character goals, an
 - 
 
 ### Hubris
--
+- 
 
 ### Aoidos and Myths
--
+- 
 
 ## Character Creation
 
@@ -194,11 +194,9 @@ All PCs begin with:
 - A weapon (roll on the related table)
 - 3d6 electron coins
 
-Roll on the **Starting Gear** tables to determine your PC's armor, tools, and equipment. ~~If indicated, roll on the [**Scrolls**](#scrolls) table.~~
+Roll on the **Starting Gear** tables to determine your PC's armor, tools, and equipment.
 
 See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
-
-~~If you would like something closer to character's classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).~~
 
 <p></p>
 
@@ -420,7 +418,7 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 |                  |                    |                 |           |
 | :--------------: | :----------------: | :-------------: | :-------: |
 |       1-5        |        6-13        |      14-17      |   18-20   |
-| Tool or  Trinket | Expeditionary Gear | Armor or Weapon | Scroll |
+| Tool | Expeditionary Gear | Armor or Weapon | Trinket |
 
 <p></p>
 
@@ -525,11 +523,28 @@ Everyone may use magic and Kanonas is the power source. Each time a spell, invoc
 
 ### Theourgía
 
+Theourgía is a type of magic. It consists of a set of magical practices performed to evoke Gods in order to see them or know them or in order to influence them or ask them a blessing. It is a power higher than all human wisdom embracing the blessings of divination, the purifying powers of initiation and all the operations of divine possession.
+
+The practitioner evokes the God competent for each dominion:
+
+- Apollo: divination and healing.
+- Ares: might in battle.
+- Artemis: protection in the night and charms in the hunt.
+- Aphrodite: love charms and potions. 
+- Athena: insights and strategy.
+- Hermes: thievery and trickery.
+- Hephaestus: blessing weapons and armors.
+- Hera: blessing marital unions.
+- Persephone: calling upon the souls of the dead.
+- Poseidon: control over sea and weather
+
+The practitioners has 1-in-6 chances to be heard by the deity and have their request fulfilled. In any case the practice will consume THU like any other magic
+
 ### Goïteia
 
 ### Curses
 
-### Divination
+### Amulets & Talisman
 
 ### **Gifts**  
 **Gifts** are items imbued with a magical spell or power.  Gifts usually have a limited use, as well as a recharge condition. A few examples:
