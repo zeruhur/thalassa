@@ -482,7 +482,7 @@ Each of the three **abilities** are used in different circumstances (see **saves
 **Saves**  
 A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll_equal to or under that ability score_, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
 
-**Example:** _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 TEK makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
+~~**Example:** _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 TEK makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_~~
 
 **Deprivation & Fatigue**  
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
@@ -546,9 +546,41 @@ A time of recollection and concentration is required to appeal to the deity, equ
 ### Amulets & Talisman
 
 ### **Gifts**  
-**Gifts** are items imbued with a magical spell or power.  Gifts usually have a limited use, as well as a recharge condition. A few examples:
+**Gifts** are items imbued with a magical spell or power. Gifts, usually granted by Gods, are powerful but have a limited and precise use. A few examples:
 
+**Achilleus' Armor** created by Hephaestus, it is impenetrable.
 
+**Aegis**, the shield of Zeus which was often guarded by Athena along with his magical armour, Perseus used this when decapitating Medusa, it bore the head of Medusa to scare the enemy.
+
+**Apollon's Bow**: inducing health or death.
+
+**Caduceus**: a staff used by Hermes, entwined by two serpents. Also known as the staff of healing.
+
+**Cornucopia**: the horn of the river god Achelous overflowing with food.
+
+**Eros's Bow**: it generates arrows which caused the target to hate or love the first person in sight.
+
+**Harpe**: a combination of a sword and sickle, and a term used to refer to the sword used by Perseus to kill Medusa, and to the sickle used by Cronus to castrate Ouranus.
+
+**The Helmet of Darkness**: also known as helmet or Cap of Invisibility, was a headgear created by the Cyclopes for Hades (Pluto).
+
+**Heracles's Bow**: it belonged to the demi-god Heracles, with arrows tipped with the Hydra's poison.
+
+**Hide of the Nemean Lion**: earned by Heracles, it was impenetrable, at least by conventional weapons.
+
+**Poseidon's Trident**: Poseidon's trademark weapon and symbol of power. The trident is imbued with the power to control and command the sea, it can also create huge tidal waves and make hurricanes.
+
+**Shield of Achilleus**: used during Achille's fight with Hector.
+
+**Shirt of Nessus**: shirt poisoned with Nessus tainted/poisoned blood, used to poison and kill Heracles.
+
+**Spear of Achilleus**: forged by Hephaestus and given to Peleus.
+
+**Sword of Peleus**: magic sword which makes the wielder emerge victorious in battle.
+
+**Winged Helmet**: winged helmet wore by Hermes.
+
+**Winged Sandals**: wore by Hermes, allowing the god to fly.
 
 ## Combat
 
@@ -563,12 +595,12 @@ Each round, the PCs declare what they are doing before dice are rolled. If a cha
 **Turns**  
 The odigós will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a TEK save to act before their opponents.
 
-**Example:** _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a TEK save. She fails, and the Troll gets to attack first._
+~~**Example:** _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a TEK save. She fails, and the Troll gets to attack first._~~
 
 **Attacking & Damage**  
 The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
 
-**Example:** _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the odigós rolls a 4. They subtract 1 to account for Bea's leather armor, leaving Bea with 2 HP remaining_.
+~~**Example:** _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the odigós rolls a 4. They subtract 1 to account for Bea's leather armor, leaving Bea with 2 HP remaining_.~~
 
 **Multiple Attackers**  
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
@@ -659,7 +691,7 @@ Some pointers:
 - Does it soak up damage? Give it Armor.
 - Is it strong? Give it a high **KRA**.
 - Is it nimble? Give it high **TEK**.
-- Is it charismatic? Give it high THU.
+- Is it charismatic? Give it high **THU**.
 
 Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
