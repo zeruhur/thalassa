@@ -428,12 +428,11 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 
 ||     |
 |--------------------------------------------------------------|-----|
-|Shield (+1 Armor)   |10   |
-|Helmet (+1 Armor)    |10   |
-|Gambeson (+1 Armor)   |15   |
-|Brigandine (1 Armor, bulky)  |20   |
-|Chainmail (2 Armor, bulky)   |40   |
-|Plate (3 Armor, bulky)      |60   |
+|Aspis (+1 Armor)   |10   |
+|Krános (+1 Armor)    |10   |
+|Fur Coat (+1 Armor)   |15   |
+|Linothorax (2 Armor, bulky)   |40   |
+|Breastplate (3 Armor, bulky)      |60   |
 
 #### Weapons
 
@@ -523,22 +522,22 @@ Everyone may use magic and Kanonas is the power source. Each time a spell, invoc
 
 ### Theourgía
 
-Theourgía is a type of magic. It consists of a set of magical practices performed to evoke Gods in order to see them or know them or in order to influence them or ask them a blessing. It is a power higher than all human wisdom embracing the blessings of divination, the purifying powers of initiation and all the operations of divine possession.
+Theourgía is the highest form of magic. It consists of a set of magical practices performed to evoke Gods in order to see them or know them or in order to influence them or ask them a blessing. It is a power higher than all human wisdom embracing the blessings of divination, the purifying powers of initiation and all the operations of divine possession.
 
-The practitioner evokes the God competent for each dominion:
+The practitioner evokes the God competent for a specific domain on which he wants to have effect:
 
-- Apollo: divination and healing.
-- Ares: might in battle.
-- Artemis: protection in the night and charms in the hunt.
-- Aphrodite: love charms and potions. 
-- Athena: insights and strategy.
-- Hermes: thievery and trickery.
-- Hephaestus: blessing weapons and armors.
-- Hera: blessing marital unions.
-- Persephone: calling upon the souls of the dead.
-- Poseidon: control over sea and weather
+- **Apollo**: divination and healing.
+- **Ares**: might in battle.
+- **Artemis**: protection in the night and charms in the hunt.
+- **Aphrodite**: love charms and potions. 
+- **Athena**: insights and strategy.
+- **Hermes**: thievery and trickery.
+- **Hephaestus**: blessing weapons and armors.
+- **Hera**: blessing marital unions.
+- **Persephone**: calling upon the souls of the dead.
+- **Poseidon**: control over sea and weather
 
-The practitioners has 1-in-6 chances to be heard by the deity and have their request fulfilled. In any case the practice will consume THU like any other magic
+A time of recollection and concentration is required to appeal to the deity, equal to 1d6 turns. Then roll 1d20: if the result is 16+, the deity hears and grants the request. In any case the practice will consume THU like any other magic.
 
 ### Goïteia
 
@@ -548,8 +547,6 @@ The practitioners has 1-in-6 chances to be heard by the deity and have their req
 
 ### **Gifts**  
 **Gifts** are items imbued with a magical spell or power.  Gifts usually have a limited use, as well as a recharge condition. A few examples:
-
-
 
 
 
