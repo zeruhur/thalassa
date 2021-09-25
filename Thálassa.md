@@ -147,7 +147,7 @@ Players trust one another to engage with the shared setting, character goals, an
 ### Labyriths
 - 
 
-### Theourgía & Goïteia
+### Eukhé & Goïteia
 - 
 
 ### The Underworld
@@ -517,12 +517,12 @@ Treasure is highly valuable, usually bulky, and rarely useful beyond its value. 
 Villages,strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
 
 ## Magic
-In the world of Thálassa there are two kinds of magic: **Theourgía** is the invocation of divine powers and **Goïteia** is the arcane magic (including astrology, alchemy and other forms of esoteric knowledge).  
+In the world of Thálassa there are two kinds of magic: **Eukhé** is the invocation of divine powers and **Goïteia** is the arcane magic (including astrology, alchemy and other forms of esoteric knowledge).  
 Everyone may use magic and Kanonas is the power source. Each time a spell, invocation, curse or divination is casted, the magic-user consumes THU equal to 1d6 points. This determines the current level of THU until recovered (the same rule for HP in Healing do apply).
 
-### Theourgía
+### Eukhé
 
-Theourgía is the highest form of magic. It consists of a set of magical practices performed to evoke Gods in order to see them or know them or in order to influence them or ask them a blessing. It is a power higher than all human wisdom embracing the blessings of divination, the purifying powers of initiation and all the operations of divine possession.
+Eukhé is the highest form of magic. It consists of a set of magical practices performed to evoke Gods in order to see them or know them or in order to influence them or ask them a blessing. It is a power higher than all human wisdom embracing the blessings of divination, the purifying powers of initiation and all the operations of divine possession.
 
 The practitioner evokes the God competent for a specific domain on which he wants to have effect:
 
