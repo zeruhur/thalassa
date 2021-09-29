@@ -170,7 +170,7 @@ Finally, roll for their **age** (2d20+10).
 
 #### Ability Scores  
 Player Characters (PCs) have just three attributes:  
-***kratos* (KRA)** (strength), ***tekhne*  (TEK)** (nimbleness), and ***thumos* (THU)** (discipline). When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+***kratos* (KRA)** (strength), ***tekhne*  (TEK)** (nimbleness), and ***thumos* (THU)** (control). When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
 
 **Example:**   
 Ines rolls for her character's **KRA**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **TEK** and a **13** for **THU**. She decides to swap the **12** and the **9**, for a character with **9 KRA**, **12 TEK** and **13** **THU**.
@@ -517,8 +517,9 @@ Treasure is highly valuable, usually bulky, and rarely useful beyond its value. 
 Villages,strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
 
 ## Magic
-In the world of Thálassa there are two kinds of magic: **Eukhé** is the invocation of divine powers and **Goïteia** is the arcane magic (including astrology, alchemy and other forms of esoteric knowledge).  
-Everyone may use magic and Kanonas is the power source. Each time a spell, invocation, curse or divination is casted, the magic-user consumes THU equal to 1d6 points. This determines the current level of THU until recovered (the same rule for HP in Healing do apply).
+In the world of Thálassa there are two kinds of magic: **Eukhé** is the invocation of divine powers and **Goïteia** is the arcane magic.
+
+Everyone may use magic and Thumos is the power source. Each time a spell, invocation, curse or divination is casted, the magic-user consumes THU equal to 1d6 points. This determines the current level of THU until recovered (the same rule for HP in [Healing](#healing) do apply).
 
 ### Eukhé
 
@@ -541,9 +542,49 @@ A time of recollection and concentration is required to appeal to the deity, equ
 
 ### Goïteia
 
-### Curses
+Goïteia is the lowest form of magic, including astrology, alchemy and other forms of esoteric knowledge. 
 
-### Amulets & Talisman
+#### Incantations
+
+- Assistant Daimon
+- Invisibility
+- Revelation
+- Foreknowledge
+- Attraction
+- Bind Lover
+- Shadow Control
+- Direct Vision
+- Restrain anger
+- Consecration
+- Questioning Corpses
+- Slander 
+- Induce Insomnia 
+- Healing
+- Victory 
+- Coerce 
+- Silence
+- Subjugate
+- Sleep Talk
+- Protection
+- Dream Revelations
+- Bonds Release
+- Gaining Favor
+- Charm Beasts
+- Causing Separation
+- Gain Friendship
+- Separate People
+- Break enchantment
+- Inflict Harm 
+- Dissolve Spells
+
+#### Curse Tablets
+
+#### Amulets & Talisman
+
+- Demon Protection
+- restraining seal
+- Phylactery 
+- ring for success and favor and . victoty
 
 ### **Gifts**  
 **Gifts** are items imbued with a magical spell or power. Gifts, usually granted by Gods, are powerful but have a limited and precise use. A few examples:
