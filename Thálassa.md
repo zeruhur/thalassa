@@ -168,7 +168,7 @@ Players trust one another to engage with the shared setting, character goals, an
 ### The Underworld
 - The Underworld is a real (but hidden to the living) physical place where the souls of the dead dwell. These are only shadows of the mortal that they were, with no sense of purpose. The Underworld has a complex geography it is crossed by rivers and inhabited and defended by creatures.
 - It is possible to descend into the Underworld with the rite of *katabasis*. The ability to enter the realm of the dead while still alive, and to return, is a proof of being a hero. The purpose of the descent is to recover a quest-object or a loved one, or with heightened knowledge
-- It is also possible to summon the souls of the dead with the rite of nekyia. In this case the descent into the Underworld will not be physical and will have the purpose of obtaining knowledge or prophecies from the dead.
+- It is also possible to summon the souls of the dead with the rite of *nekyia*. In this case the descent into the Underworld will not be physical and will have the purpose of obtaining knowledge or prophecies from the dead.
 
 
 ## Character Creation
