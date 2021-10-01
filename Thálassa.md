@@ -135,29 +135,41 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ## Principles of the World
 
-### The Mediterranean Sea (hē thálassa)
-- 
+### The Sea (hē thálassa)
+- The Know World mostly faces the Sea. It is a vast basin on which peoples of different cultures live and where the creatures of myth roam free.
+- The daring and the brave venture into its waters. In distant lands they go in search of the Prize and fortune and glory.
+- The Sea is dotted with wild and unknown islands, ready to be explored and despoiled. The mainland is for the most part unexplored and mysterious.
 
 ### The Gods
-- 
+- Gods are real, they walk among humans. Sometimes they fall in love with theme, sometimes they are envious.
+- They are powerful and capricious, but not almighty. They are immortal, but they can be injured.
+- One can appeal to the deities to request their intervention. Often they will not listen, sometimes they will respond unpredictably.
 
-### The Demigods
-- 
-
-### Labyriths
-- 
-
-### Eukhé & Goïteia
-- 
-
-### The Underworld
-- 
-
-### Hubris
-- 
+### The Demigods and Heroes
+- The Demigods are not necessarily the result of the union of a god and a mortal but some are, like Heracles.
+- Those who demonstrate strength, power, good family, and good behavior are termed heroes.
+- After death Gods may grant the apotheosis. When this happens the hero assumes the title of Demigod.
 
 ### Aoidos and Myths
-- 
+- Myths passed down in literature are real history in this world.
+- Being passed down orally by the aoidos, there are conflicting versions of the same story.
+- It is possible to meet the heroes of myth. The odigoí is free to choose which mythical era to set the adventure in.
+
+### Eukhé & Goïteia
+- When one appeals to a god, they are a *eukhé* (prayer). Eukhé is the high and noble form of magic.
+- In Egypt, west of Lybia, the great priests practice *heka* (magic) that draws on primordial power through rituals and spells.
+- Importing some spells, which are passed down without fully understanding their function and power, some practice *goïteia*, a low and limited form of magic that has lesser effects than either eukhé or heka. Practitioners of goïteia are frowned upon and considered by most to be charlatans.
+
+### Labyriths
+- Around the vast Sea on mysterious islands or impenetrable forests are located labyrinths.
+- There are different types of labyrinths. Some are physically mazes built to imprison and protect. Others are networks of caves or palaces with complex geometry.
+- Those who face the dangers of the labyrinths will be rewarded with Prizes and other riches.
+
+### The Underworld
+- The Underworld is a real (but hidden to the living) physical place where the souls of the dead dwell. These are only shadows of the mortal that they were, with no sense of purpose. The Underworld has a complex geography it is crossed by rivers and inhabited and defended by creatures.
+- It is possible to descend into the Underworld with the rite of *katabasis*. The ability to enter the realm of the dead while still alive, and to return, is a proof of being a hero. The purpose of the descent is to recover a quest-object or a loved one, or with heightened knowledge
+- It is also possible to summon the souls of the dead with the rite of nekyia. In this case the descent into the Underworld will not be physical and will have the purpose of obtaining knowledge or prophecies from the dead.
+
 
 ## Character Creation
 
@@ -175,15 +187,15 @@ Player Characters (PCs) have just three attributes:
 **Example:**   
 Ines rolls for her character's **KRA**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **TEK** and a **13** for **THU**. She decides to swap the **12** and the **9**, for a character with **9 KRA**, **12 TEK** and **13** **THU**.
 
-### Hit Protection  
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the **Scars** table.
+### Stamina
+Roll 1d6 to determine your PC's starting **Stamina** (STA), which reflects their ability to avoid damage in combat. STA does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's STA exactly to 0, the player must roll on the **Scars** table.
 
 #### Inventory
 Characters have a total of inventory slots equal to their KRA: this represents the character's ability to to bear the weight and fatigue of carrying the equipment without being adversely affected.
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the odigós's discretion.
+Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the odigós' discretion.
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 HP.
+**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 STA.
 
 A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Hirelings** can also be paid to carry equipment.
 
@@ -204,44 +216,48 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 
 #### Female Names
 
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1     | Althea     |6          |Deipyle     |11        |Lede   |16    |Phylia     |
-|2     | Berenike  |7          |Electra     |12        |Lyra |17    |Themis    |
-|3     | Chloris   |8          |Eunice       |13        |Metis |18    |Thyia    |
-|4     | Corythia   |9          |Galatea      |14        |Mykale  |19    |Xanthe     |
-|5     | Deineira   |10         |Helike    |15        |Niobe  |20    |Zoe     |
+|   |          |    |         |    |        |    |        |
+|---|----------|----|---------|----|--------|----|--------|
+| 1 | Althea   | 6  | Deipyle | 11 | Lede   | 16 | Phylia |
+| 2 | Berenike | 7  | Electra | 12 | Lyra   | 17 | Themis |
+| 3 | Chloris  | 8  | Eunice  | 13 | Metis  | 18 | Thyia  |
+| 4 | Corythia | 9  | Galatea | 14 | Mykale | 19 | Xanthe |
+| 5 | Deineira | 10 | Helike  | 15 | Niobe  | 20 | Zoe    |
+
 
 
 #### Male Names
 
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Agelaus     |6          |Croesus    |11        |Epistor  |16    |Lycoris    |
-|2           |Audax     |7          |Damastor  |12        |Glycon   |17    |Mydon    |
-|3           |Brygos    |8          |Demokrates      |13        |Hyllus   |18    |Pheidias  |
-|4           |Chrysippos    |9          |Dryas      |14        |Icarion  |19    |Skiron    |
-|5           |Cleonicus   |10         |Eleon    |15        |Kasos   |20    |Timonax   |
+|   |            |    |            |    |         |    |          |
+|---|------------|----|------------|----|---------|----|----------|
+| 1 | Agelaus    | 6  | Croesus    | 11 | Epistor | 16 | Lycoris  |
+| 2 | Audax      | 7  | Damastor   | 12 | Glycon  | 17 | Mydon    |
+| 3 | Brygos     | 8  | Demokrates | 13 | Hyllus  | 18 | Pheidias |
+| 4 | Chrysippos | 9  | Dryas      | 14 | Icarion | 19 | Skiron   |
+| 5 | Cleonicus  | 10 | Eleon      | 15 | Kasos   | 20 | Timonax  |
+
 
 #### Child of
 
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Alcman     |6          |Geleon    |11        |Menexinos  |16    |Sosimenes    |
-|2           |Bacis     |7          |Gnipho  |12        |Peirithous   |17    |Sostias    |
-|3           |Diactorides    |8          |Hagias      |13        |Phaenippos   |18    |Teukros  |
-|4           |Eumaeus    |9          |Melanippos      |14        |Philokles  |19    |Thaumastus    |
-|5           |Eutuches   |10         |Menandros    |15        |Priam   |20    |Thettalos   |
+|   |             |    |            |    |            |    |            |
+|---|-------------|----|------------|----|------------|----|------------|
+| 1 | Alcman      | 6  | Geleon     | 11 | Menexinos  | 16 | Sosimenes  |
+| 2 | Bacis       | 7  | Gnipho     | 12 | Peirithous | 17 | Sostias    |
+| 3 | Diactorides | 8  | Hagias     | 13 | Phaenippos | 18 | Teukros    |
+| 4 | Eumaeus     | 9  | Melanippos | 14 | Philokles  | 19 | Thaumastus |
+| 5 | Eutuches    | 10 | Menandros  | 15 | Priam      | 20 | Thettalos  |
+
 
 #### Profession
 
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Actor |6          |Lyrist     |11        |Poet |16    |Sorcerer |
-|2           |Barber |7          |Mariner    |12        |Priest|17    |Spinner|
-|3           |Blacksmith   |8          |Oracle|13        |Sculptor |18    |Tailor  |
-|4           |Farmer   |9          |Philosopher  |14        |Shepherd    |19    |Trader   |
-|5           |Magistrate |10         |Physician     |15        |Soldier   |20    |Weaver    |
+|   |            |    |             |    |          |    |          |
+|---|------------|----|-------------|----|----------|----|----------|
+| 1 | Actor      | 6  | Lyrist      | 11 | Poet     | 16 | Sorcerer |
+| 2 | Barber     | 7  | Mariner     | 12 | Priest   | 17 | Spinner  |
+| 3 | Blacksmith | 8  | Oracle      | 13 | Sculptor | 18 | Tailor   |
+| 4 | Farmer     | 9  | Philosopher | 14 | Shepherd | 19 | Trader   |
+| 5 | Magistrate | 10 | Physician   | 15 | Soldier  | 20 | Weaver   |
+
 
 #### Origin
 
@@ -259,103 +275,111 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 
 #### Physique
 
-|  |          |      |            |
-| -------- | -------- | ---- | ---------- |
-| 1        | Athletic | 6    | Scrawny    |
-| 2        | Brawny   | 7    | Short      |
-| 3        | Flabby   | 8    | Statuesque |
-| 4        | Lanky    | 9    | Stout      |
-| 5        | Rugged   | 10   | Towering   |
+|   |          |    |            |
+|---|----------|----|------------|
+| 1 | Athletic | 6  | Scrawny    |
+| 2 | Brawny   | 7  | Short      |
+| 3 | Flabby   | 8  | Statuesque |
+| 4 | Lanky    | 9  | Stout      |
+| 5 | Rugged   | 10 | Towering   |
+
 
 #### Skin
 
-|  |            |      |           |
-| ---- | ---------- | ---- | --------- |
-| 1    | Birthmark  | 6    | Round     |
-| 2    | Dark       | 7    | Soft      |
-| 3    | Elongated  | 8    | Tanned    |
-| 4    | Pockmarked | 9    | Tattooed  |
-| 5    | Rosy       | 10   | Weathered |
+|   |            |    |           |
+|---|------------|----|-----------|
+| 1 | Birthmark  | 6  | Round     |
+| 2 | Dark       | 7  | Soft      |
+| 3 | Elongated  | 8  | Tanned    |
+| 4 | Pockmarked | 9  | Tattooed  |
+| 5 | Rosy       | 10 | Weathered |
+
 
 #### Hair
 
-|  |         |      |           |
-| ---- | ------- | ---- | --------- |
-| 1    | Bald    | 6    | Long      |
-| 2    | Braided | 7    | Luxurious |
-| 3    | Curly   | 8    | Oily      |
-| 4    | Filthy  | 9    | Wavy      |
-| 5    | Frizzy  | 10   | Wispy     |
+|   |         |    |           |
+|---|---------|----|-----------|
+| 1 | Bald    | 6  | Long      |
+| 2 | Braided | 7  | Luxurious |
+| 3 | Curly   | 8  | Oily      |
+| 4 | Filthy  | 9  | Wavy      |
+| 5 | Frizzy  | 10 | Wispy     |
+
 
 #### Face
 
-|  |           |      |          |
-| ---- | --------- | ---- | -------- |
-| 1    | Bony      | 6    | Perfect  |
-| 2    | Broken    | 7    | Rat-like |
-| 3    | Chiseled  | 8    | Sharp    |
-| 4    | Elongated | 9    | Square   |
-| 5    | Pale      | 10   | Sunken   |
+|   |           |    |          |
+|---|-----------|----|----------|
+| 1 | Bony      | 6  | Perfect  |
+| 2 | Broken    | 7  | Rat-like |
+| 3 | Chiseled  | 8  | Sharp    |
+| 4 | Elongated | 9  | Square   |
+| 5 | Pale      | 10 | Sunken   |
+
 
 #### Speech
 
-|  |         |      |            |
-| ------ | ------- | ---- | ---------- |
-| 1      | Blunt   | 6    | Gravelly   |
-| 2      | Booming | 7    | Precise    |
-| 3      | Cryptic | 8    | Squeaky    |
-| 4      | Droning | 9    | Stuttering |
-| 5      | Formal  | 10   | Whispery   |
+|   |         |    |            |
+|---|---------|----|------------|
+| 1 | Blunt   | 6  | Gravelly   |
+| 2 | Booming | 7  | Precise    |
+| 3 | Cryptic | 8  | Squeaky    |
+| 4 | Droning | 9  | Stuttering |
+| 5 | Formal  | 10 | Whispery   |
 
 #### Clothing
 
-|  |         |      |        |
-| -------- | ------- | ---- | ------ |
-| 1        | Antique | 6    | Frayed |
-| 2        | Bloody  | 7    | Frumpy |
-| 3        | Elegant | 8    | Livery |
-| 4        | Filthy  | 9    | Rancid |
-| 5        | Foreign | 10   | Soiled |
+|   |         |    |        |
+|---|---------|----|--------|
+| 1 | Antique | 6  | Frayed |
+| 2 | Bloody  | 7  | Frumpy |
+| 3 | Elegant | 8  | Livery |
+| 4 | Filthy  | 9  | Rancid |
+| 5 | Foreign | 10 | Soiled |
+
 
 #### Virtue
 
-|  |             |      |           |
-| ------ | ----------- | ---- | --------- |
-| 1      | Ambitious   | 6    | Honorable |
-| 2      | Cautious    | 7    | Humble    |
-| 3      | Courageous  | 8    | Merciful  |
-| 4      | Disciplined | 9    | Serene    |
-| 5      | Gregarious  | 10   | Tolerant  |
+|   |             |    |           |
+|---|-------------|----|-----------|
+| 1 | Ambitious   | 6  | Honorable |
+| 2 | Cautious    | 7  | Humble    |
+| 3 | Courageous  | 8  | Merciful  |
+| 4 | Disciplined | 9  | Serene    |
+| 5 | Gregarious  | 10 | Tolerant  |
 
 #### Vice
 
-|  |            |      |          |
-| ---- | ---------- | ---- | -------- |
-| 1    | Aggressive | 6    | Lazy     |
-| 2    | Bitter     | 7    | Nervous  |
-| 3    | Craven     | 8    | Rude     |
-| 4    | Deceitful  | 9    | Vain     |
-| 5    | Greedy     | 10   | Vengeful |
+|   |            |    |          |
+|---|------------|----|----------|
+| 1 | Aggressive | 6  | Lazy     |
+| 2 | Bitter     | 7  | Nervous  |
+| 3 | Craven     | 8  | Rude     |
+| 4 | Deceitful  | 9  | Vain     |
+| 5 | Greedy     | 10 | Vengeful |
+
 
 #### Reputation
 
-|  |             |      |           |
-| ---------- | ----------- | ---- | --------- |
-| 1          | Ambitious   | 6    | Loafer    |
-| 2          | Boor        | 7    | Oddball   |
-| 3          | Dangerous   | 8    | Repulsive |
-| 4          | Entertainer | 9    | Respected |
-| 5          | Honest      | 10   | Wise      |
+|   |             |    |           |
+|---|-------------|----|-----------|
+| 1 | Ambitious   | 6  | Loafer    |
+| 2 | Boor        | 7  | Oddball   |
+| 3 | Dangerous   | 8  | Repulsive |
+| 4 | Entertainer | 9  | Respected |
+| 5 | Honest      | 10 | Wise      |
+
 
 #### Misfortunes
 
-|  |             |      |             |
-| ----------- | ----------- | ---- | ----------- |
-| 1           | Abandoned   | 6    | Defrauded   |
-| 2           | Addicted    | 7    | Demoted     |
-| 3           | Blackmailed | 8    | Discredited |
-| 4           | Condemned   | 9    | Disowned    |
-| 5           | Cursed      | 10   | Exiled      |
+|   |             |    |             |
+|---|-------------|----|-------------|
+| 1 | Abandoned   | 6  | Defrauded   |
+| 2 | Addicted    | 7  | Demoted     |
+| 3 | Blackmailed | 8  | Discredited |
+| 4 | Condemned   | 9  | Disowned    |
+| 5 | Cursed      | 10 | Exiled      |
+
 
 <p></p>
 
@@ -363,62 +387,65 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 
 #### Armor (d20)
 
-|  |            |           |       |
-| :---: | :--------: | :-------: | :---: |
-|  1-3  |    4-14    |   15-19   |  20   |
-| None  | Fur Coat | Linothorax  | Breastplate |
+|      |          |            |             |
+|------|----------|------------|-------------|
+| 1-3  | 4-14     | 15-19      | 20          |
+| None | Fur Coat | Linothorax | Breastplate |
+
 
 #### Helmets & Shields (d20)
 
-|  |        |        |                 |
-| :---------------: | :----: | :----: | :-------------: |
-|       1-13        | 14-16  | 17-19  |       20        |
-|       None        | Krános (Helmet) | Aspis (Shield) | Krános & Aspis |
+|      |                 |                |                |
+|------|-----------------|----------------|----------------|
+| 1-13 | 14-16           | 17-19          | 20             |
+| None | Krános (Helmet) | Aspis (Shield) | Krános & Aspis |
 
 #### Weapons (d20)
 
-|                |                  |                          |                                |
-| :-------------------: | :--------------: | :----------------------: | :----------------------------: |
-|          1-5          |       6-14       |          15-19           |               20               |
-| Kopis (curved knife) | Doru (spear), Xiphos (sword) | Akontia (javelin), Sfendonai (sling) | Xyston (long lance), Toxa (bow)  |
+|                      |                              |                                      |                                 |
+|----------------------|------------------------------|--------------------------------------|---------------------------------|
+| 1-5                  | 6-14                         | 15-19                                | 20                              |
+| Kopis (curved knife) | Doru (spear), Xiphos (sword) | Akontia (javelin), Sfendonai (sling) | Xyston (long lance), Toxa (bow) |
+
 
 #### Expeditionary Gear (d12)
 
-|  |                        |      |                |
-| ------------------ | ---------------------- | ---- | -------------- |
-| 1                  | Cart (+4 slots, bulky) | 7    | Lockpicks   |
-| 2                  | Chain (10ft)  | 8    | Pick |
-| 3                  | Dowsing Rod | 9   | Pole (10ft) |
-| 4                  | Fire Oil   | 10   | Rope (25ft) |
-| 5                  | Large Sack  | 11   | Torch |
-| 6 | Large Trap | 12 | Waterskin |
+|     |                        |     |             |
+| --- | ---------------------- | --- | ----------- |
+| 1   | Cart (+4 slots, bulky) | 7   | Lockpicks   |
+| 2   | Chain (10ft)           | 8   | Pick        |
+| 3   | Dowsing Rod            | 9   | Pole (10ft) |
+| 4   | Fire Oil               | 10  | Rope (25ft) |
+| 5   | Large Sack             | 11  | Torch       |
+| 6   | Large Trap             | 12  | Waterskin   |
 
 #### Tools (d10)
 
 |||||
-|------|-----------|------|-----------|
-|1  |Bellows    |6  |Drill (Manual)  |
-|2  |Bucket     |7  |Fishing Rod |
-|3  | Chalk |8  |Flint & Steel|
-|4  |Chisel      |9  |Grease |
-|5  |Cook Pots     |10 |Staff       |
+|---|-----------|---|---------------|
+|1  |Bellows    |6  |Drill (Manual) |
+|2  |Bucket     |7  |Fishing Rod    |
+|3  | Chalk     |8  |Flint & Steel  |
+|4  |Chisel     |9  |Grease         |
+|5  |Cook Pots  |10 |Staff          |
 
 #### Trinkets (d10)
 
 |||||
-|------|-----------|------|-----------|
-|1  |Amulet     |6  |Lyre       |
-|2  |Bottle  |7  |Necklace    |
-|3  | Copper |8  |Silver Mirror |
-|4  |Horn |9  | Talisman |
-|5  |Incense|10 |Tunic    |
+|---|--------|---|--------------|
+|1  |Amulet  |6  |Lyre          |
+|2  |Bottle  |7  |Necklace      |
+|3  |Copper  |8  |Silver Mirror |
+|4  |Horn    |9  | Talisman     |
+|5  |Incense |10 |Tunic         |
 
-#### 																		Bonus Item (d20, roll on table indicated)
+#### Bonus Item (d20, roll on table indicated)
 
-|                  |                    |                 |           |
-| :--------------: | :----------------: | :-------------: | :-------: |
-|       1-5        |        6-13        |      14-17      |   18-20   |
+|      |                    |                 |         |
+|------|--------------------|-----------------|---------|
+| 1-5  | 6-13               | 14-17           | 18-20   |
 | Tool | Expeditionary Gear | Armor or Weapon | Trinket |
+
 
 <p></p>
 
@@ -426,46 +453,49 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 
 #### Armor
 
-||     |
-|--------------------------------------------------------------|-----|
-|Aspis (+1 Armor)   |10   |
-|Krános (+1 Armor)    |10   |
-|Fur Coat (+1 Armor)   |15   |
-|Linothorax (2 Armor, bulky)   |40   |
-|Breastplate (3 Armor, bulky)      |60   |
+|                              |    |
+|------------------------------|----|
+| Aspis (+1 Armor)             | 10 |
+| Krános (+1 Armor)            | 10 |
+| Fur Coat (+1 Armor)          | 15 |
+| Linothorax (2 Armor, bulky)  | 40 |
+| Breastplate (3 Armor, bulky) | 60 |
+
 
 #### Weapons
 
-| |     |
-|--------------------------------------------------------------|-----|
-|Kopis (d6  damage)             |5    |
-|Doru, Xiphos (d8 damage)             |10   |
-|Akontia, Xyston (d10 damage, bulky)   |20   |
-|Sfendonai                                            |5    |
-|Toxa (d6  damage, bulky)                                       |20   |
+|                                     |    |
+|-------------------------------------|----|
+| Kopis (d6  damage)                  | 5  |
+| Doru, Xiphos (d8 damage)            | 10 |
+| Akontia, Xyston (d10 damage, bulky) | 20 |
+| Sfendonai                           | 5  |
+| Toxa (d6  damage, bulky)            | 20 |
+
 
 #### Gear & Tools
 
-| |                |                   |          |
-|---------------------------------------------|----------------|-------------------|----------|
-| Bucket                 | 5    | Mirror                      | 5    |
-| Cart (+4 slots, bulky) | 30   | Mule (+6 slots, slow)       | 30   |
-| Chain (10ft)           | 10   | Net                         | 10   |
-| Chisel                 | 5    | Oilskin Bag                 | 5    |
-| Cook Pots              | 10   | Pick                        | 10   |
-| Drill (Manual)         | 10   | Pole (10ft)                 | 5    |
-| Fire Oil               | 10   | Stylus & Tablet             | 10   |
-| Fishing Rod            | 10   | Rations (three day's worth) | 10   |
-| Grease                 | 10   | Rope (25ft)                 | 5    |
-| Horn                   | 10   | Saw                         | 5    |
-| Horse (+4 slots)       | 75   | Sack                        | 5    |
-| Incense                | 10   | Shovel                      | 5    |
-| Lantern & Oil          | 10   | Soap                        | 1    |
-| Large Trap             | 20   | Spike                       | 1    |
-| Large Sponge           | 5    | Spiked Boots                | 5    |
-| Lens                   | 10   | Tar                         | 10   |
-| Lockpicks              | 25   | Tent (fits 2 people, bulky) | 20   |
-| Metal File             | 5    | Torch                       | 1    |
+|                        |    |                             |    |
+|------------------------|----|-----------------------------|----|
+| Bucket                 | 5  | Mirror                      | 5  |
+| Cart (+4 slots, bulky) | 30 | Mule (+6 slots, slow)       | 30 |
+| Chain (10ft)           | 10 | Net                         | 10 |
+| Chisel                 | 5  | Oilskin Bag                 | 5  |
+| Cook Pots              | 10 | Pick                        | 10 |
+| Drill (Manual)         | 10 | Pole (10ft)                 | 5  |
+| Fire Oil               | 10 | Stylus & Tablet             | 10 |
+| Fishing Rod            | 10 | Rations (three day's worth) | 10 |
+| Grease                 | 10 | Rope (25ft)                 | 5  |
+| Horn                   | 10 | Saw                         | 5  |
+| Horse (+4 slots)       | 75 | Sack                        | 5  |
+| Incense                | 10 | Shovel                      | 5  |
+| Lantern & Oil          | 10 | Soap                        | 1  |
+| Large Trap             | 20 | Spike                       | 1  |
+| Large Sponge           | 5  | Spiked Boots                | 5  |
+| Lens                   | 10 | Tar                         | 10 |
+| Lockpicks              | 25 | Tent (fits 2 people, bulky) | 20 |
+| Metal File             | 5  | Torch                       | 1  |
+
 
 <p></p>
 
@@ -485,29 +515,30 @@ A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs
 ~~**Example:** _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 TEK makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_~~
 
 **Deprivation & Fatigue**  
-A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
+A PC **deprived** of a crucial need (such as food or rest) is unable to recover STA or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
 
 **Healing**  
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services may be free, while more expedient or magical means of recovery may come at a cost.
+Resting for a few moments and having a drink of water restores lost STA but leaves the party exposed. Ability loss can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services may be free, while more expedient or magical means of recovery may come at a cost.
 
 **Armor**  
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
+Before calculating damage to STA, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
 No one can have more than 3 Armor.  
 Shields, gauntlets, and helms may provide additional benefits according to their use.
 
 **Reactions**  
 When the PCs encounter an NPC whose reaction to the party is not obvious, the odigós may roll 2d6 and consult the following table:
 
-| | | | | |
-| :-----: | :--: | :-----: | :--: | :--: |
-|    2    | 3-5  |   6-8   | 9-11 | 12      |
+|         |      |         |      |         |
+|---------|------|---------|------|---------|
+| 2       | 3-5  | 6-8     | 9-11 | 12      |
 | Hostile | Wary | Curious | Kind | Helpful |
 
+
 **Morale**  
-Enemies must pass a THU save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's THU in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
+Enemies must pass a THU save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's THU in place of their own. Lone foes must save when they're reduced to 0 STA. Morale does not affect PCs.
 
 **Hirelings**  
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3ec per day, or a share of whatever treasure the party obtains.
+PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 STA and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3ec per day, or a share of whatever treasure the party obtains.
 
 **Wealth & Treasure**  
 The most common coin is the electrum (e), which is equal to 10 silver (s) and 100 copper (c).
@@ -519,7 +550,7 @@ Villages,strongholds, and ports of call barter and trade based on the local rari
 ## Magic
 In the world of Thálassa there are two kinds of magic: **Eukhé** is the invocation of divine powers and **Goïteia** is the arcane magic.
 
-Everyone may use magic and Thumos is the power source. Each time a spell, invocation, curse or divination is casted, the magic-user consumes THU equal to 1d6 points. This determines the current level of THU until recovered (the same rule for HP in [Healing](#healing) do apply).
+Everyone may use magic and Thumos is the power source. Each time a spell, invocation, curse or divination is casted, the magic-user consumes THU equal to 1d6 points. This determines the current level of THU until recovered (the same rule for STA in [Healing](#healing) do apply).
 
 ### Eukhé
 
@@ -578,6 +609,7 @@ Goïteia is the lowest form of magic, including astrology, alchemy and other for
 - Dissolve Spells
 
 #### Curse Tablets
+
 
 #### Amulets & Talisman
 
@@ -639,9 +671,9 @@ The odigós will telegraph the most likely actions taken by NPCs or monsters. At
 ~~**Example:** _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a TEK save. She fails, and the Troll gets to attack first._~~
 
 **Attacking & Damage**  
-The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
+The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's STA. Unarmed attacks always do 1d4 damage.
 
-~~**Example:** _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the odigós rolls a 4. They subtract 1 to account for Bea's leather armor, leaving Bea with 2 HP remaining_.~~
+~~**Example:** _The Wood Troll roars, swinging its club at Bea, who has 5 STA. The club does 1d10 damage and the odigós rolls a 4. They subtract 1 to account for Bea's leather armor, leaving Bea with 2 STA remaining_.~~
 
 **Multiple Attackers**  
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
@@ -658,10 +690,10 @@ If attacking with two weapons at the same time, roll both damage dice and keep t
 Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
 
 **Scars**  
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the **Scars** for more.
+When damage to a PC reduces their STA to exactly 0, they are sometimes changed irrevocably. See the **Scars** for more.
 
 **Critical Damage**  
-Damage that reduces a target's HP below zero decreases a target's KRA by the amount remaining. They must then make a KRA save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+Damage that reduces a target's STA below zero decreases a target's KRA by the amount remaining. They must then make a KRA save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
 
 Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
 
@@ -682,22 +714,23 @@ Attacks against individuals by detachments are enhanced and deal blast damage.
 Running away from a dire situation always requires a successful TEK save, as well as a safe destination to run to.
 
 **Scars**  
-When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
+When an attack reduces a PC's STA to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
 
-|      |                                                              |
-|------ |---|
-| 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. |
-| 4    | Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 6    | Reorienting Head Wound: Roll 1d6 &#124; 1-2: KRA, 3-4: TEK, 5-6: THU. Roll 3d6. If the total is higher than your current ability score, take the new result. |
-| 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max TEK, take the new result. |
-| 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a THU save. If you pass, increase your max THU by 1d4. |
-| 9    | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max THU, take the new result. |
-| 10   | Sundered: An appendage is torn off, crippled or useless. The odigós will tell you which. Then, make a THU save. If you pass, increase your max THU by 1d6. |
-| 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
-| 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+|    |                                                                                                                                                                                                                            |
+|----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max STA, take the new result.                                                               |
+| 2  | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max STA, take the new result.                                                                           |
+| 3  | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max STA.                                                         |
+| 4  | Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max STA, take the new result.                                                                   |
+| 5  | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max STA, take the new result.                                                           |
+| 6  | Reorienting Head Wound: Roll 1d6 &#124; 1-2: KRA, 3-4: TEK, 5-6: THU. Roll 3d6. If the total is higher than your current ability score, take the new result.                                                               |
+| 7  | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max TEK, take the new result.                                                               |
+| 8  | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a THU save. If you pass, increase your max THU by 1d4.                                                                               |
+| 9  | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max THU, take the new result.                                                                                     |
+| 10 | Sundered: An appendage is torn off, crippled or useless. The odigós will tell you which. Then, make a THU save. If you pass, increase your max THU by 1d6.                                                                 |
+| 11 | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max STA.                                                                         |
+| 12 | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max STA, take the new result. |
+
 
 [back to index](#index)
 <p></p>
@@ -710,25 +743,25 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 Use the following template to model any more sophisticated Monster or NPC:
 
 **Name**
-X HP, X Armor, X KRA, X TEK, X THU, Weapon (dX, special items, qualities)
+X STA, X Armor, X KRA, X TEK, X THU, Weapon (dX, special items, qualities)
 - Engaging descriptor of appearance or demeanor
 - Quirk, tactic, or peculiarity making this NPC unique
 - Special effect or critical damage consequence
 
 **General Principles**  
 Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.  
-- Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
+- Give average creatures 3 STA, give hardy ones 6 STA, and serious threats get 10+ STA.
 - Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
 - Use critical damage to lean into the threat or strangeness of any aggressive NPC.
-- Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
+- Remember that STA is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
 
 **Converting from OSR Games**  
-- Give 1 HP per HD for most creatures.
+- Give 1 STA per HD for most creatures.
 - Most humanoids have at least 4HP.
 - **Morale** can also be used as a baseline.
 
 Some pointers:  
-- Is it good at avoiding a hit? Give it HP.
+- Is it good at avoiding a hit? Give it STA.
 - Does it soak up damage? Give it Armor.
 - Is it strong? Give it a high **KRA**.
 - Is it nimble? Give it high **TEK**.
@@ -755,26 +788,26 @@ On their turn, a character may move up to 40ft and take up to one action. Action
 - Roll a d20 equal to or under an ability.
 - 1 is always a success, 20 is always a failure.
 
-**HIT PROTECTION**  
-**HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
+**STAMINA**  
+**STA** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
 
 **INVENTORY**  
 PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
 
-Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
+Filling all ten item slots reduces a PC to 0 STA. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
 
 **DEPRIVATION**  
-**Deprived** PCs cannot recover HP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
+**Deprived** PCs cannot recover STA. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
 
 **HEALING**  
-A moment's rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
+A moment's rest and a swig of water will restore lost STA, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
 
 **MAGIC**
 
 **COMBAT**  
-The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's HP.
+The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's STA.
 
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
+Before calculating damage to STA, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
 
 No one can have more than 3 Armor.
 
@@ -783,9 +816,9 @@ No one can have more than 3 Armor.
 If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced** , the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 
 **DAMAGE**  
-If an attack takes a PC's HP exactly to 0, the player rolls on the **Scars** table.
+If an attack takes a PC's STA exactly to 0, the player rolls on the **Scars** table.
 
-Damage that reduces a target's HP **below** 0 decreases their KRA by the remainder. They must then make a KRA save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
+Damage that reduces a target's STA **below** 0 decreases their KRA by the remainder. They must then make a KRA save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
 
 Having KRA 0 means **death;** having TEK 0 is paralysis; having THU 0 is delirium.
 
