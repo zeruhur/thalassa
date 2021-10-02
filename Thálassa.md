@@ -13,7 +13,7 @@ Thálassa is an adventure game for one facilitator (the odigós) and at least on
 - [Equipment](#equipment-list-prices-in-gold-pieces)
 - [Rules](#rules)
 - [Bestiary](#bestiary)
-- [100 Spells](#100-spells)
+- [100 Spells](#100-incantations)
 - [Rules Summary](#rules-summary)
 
 
@@ -49,6 +49,7 @@ Players trust one another to engage with the shared setting, character goals, an
 <p></p>
 
 ## Principles for odigoí
+
 ### Information
 - Provide useful information about the game world as the characters explore it.
 - Players do not need to roll dice to learn about their circumstances.
@@ -81,7 +82,7 @@ Players trust one another to engage with the shared setting, character goals, an
 ### Prize  
 - A Prize is specific to the environment from where it is recovered. It suggests a story.
 - A Prize is something valuable, but non necessarily a treasure or materially valuable. 
-- A Prize can be anything that calls to action the players. Even a rescue mission or Labours are classifiable as a Prize, because they are worth and give prestige.
+- A Prize can be anything that calls to action the players.
 - Use the Prize as a lure to exotic locations under the protection of intimidating foes.
 
 ### Choice  
@@ -91,7 +92,7 @@ Players trust one another to engage with the shared setting, character goals, an
 - Ensure that the player character's actions leave their mark on the game world.
 
 ### Die of Fate  
-- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge,etc.).
+- Gods are capricious: sometimes they favour the characters, other times they will play against them.
 - In these situations, roll 1d6. A roll of 4 or more generally favors the players.
 - A roll of 3 or under tends to mean bad luck for the PCs or their allies.
 
@@ -99,6 +100,7 @@ Players trust one another to engage with the shared setting, character goals, an
 <p></p>
 
 ## Principles for Players
+
 ### Agency
 - Attributes and related saves do not define your character. They are tools.
 - Don't ask only what your character would do, ask what you would do, too.
@@ -140,25 +142,30 @@ Players trust one another to engage with the shared setting, character goals, an
 - The daring and the brave venture into its waters. In distant lands they go in search of the Prize and fortune and glory.
 - The Sea is dotted with wild and unknown islands, ready to be explored and despoiled. The mainland is for the most part unexplored and mysterious.
 
-### The Gods
-- Gods are real, they walk among humans. Sometimes they fall in love with theme, sometimes they are envious.
+### Gods
+- Gods are real, they walk among humans. Sometimes they fall in love with them, sometimes they are envious.
 - They are powerful and capricious, but not almighty. They are immortal, but they can be injured.
 - One can appeal to the deities to request their intervention. Often they will not listen, sometimes they will respond unpredictably.
 
-### The Demigods and Heroes
+### Demigods & Heroes
 - The Demigods are not necessarily the result of the union of a god and a mortal but some are, like Heracles.
 - Those who demonstrate strength, power, good family, and good behavior are termed heroes.
 - After death Gods may grant the apotheosis. When this happens the hero assumes the title of Demigod.
 
-### Aoidos and Myths
+### Deeds & Labours
+- Characters are called to action out of obligation (labours) or to seek glory (deeds). They will often cross The Sea to accomplish their duties.
+- Whether they are demigods, heroes or ordinary people, they all have something in common: Fate is inescapable. The Moirai have already established the length of their thread. They accept it and face creatures and oddities with courage.
+- Characters prefer cunning to brute force. War is not a sport, after all. However, some times they will be arrogant and overconfident. This is called hubris and is punished by circumstances and the gods.
+
+### Aoidos & Myths
 - Myths passed down in literature are real history in this world.
 - Being passed down orally by the aoidos, there are conflicting versions of the same story.
 - It is possible to meet the heroes of myth. The odigoí is free to choose which mythical era to set the adventure in.
 
 ### Eukhé & Goïteia
 - When one appeals to a god, they are a *eukhé* (prayer). Eukhé is the high and noble form of magic.
-- In Egypt, west of Lybia, the great priests practice *heka* (magic) that draws on primordial power through rituals and spells.
-- Importing some spells, which are passed down without fully understanding their function and power, some practice *goïteia*, a low and limited form of magic that has lesser effects than either eukhé or heka. Practitioners of goïteia are frowned upon and considered by most to be charlatans.
+- In Egypt, west of Lybia, the high priests practice *heka* (magic) that draws on primordial power through rituals and incantations.
+- Importing some incantations, which are passed down without fully understanding their function and power, some practice *goïteia*, a low and limited form of magic that has lesser effects than either eukhé or heka. Practitioners of goïteia are frowned upon and considered by most to be charlatans.
 
 ### Labyriths
 - Around the vast Sea on mysterious islands or impenetrable forests are located labyrinths.
@@ -169,7 +176,6 @@ Players trust one another to engage with the shared setting, character goals, an
 - The Underworld is a real (but hidden to the living) physical place where the souls of the dead dwell. These are only shadows of the mortal that they were, with no sense of purpose. The Underworld has a complex geography it is crossed by rivers and inhabited and defended by creatures.
 - It is possible to descend into the Underworld with the rite of *katabasis*. The ability to enter the realm of the dead while still alive, and to return, is a proof of being a hero. The purpose of the descent is to recover a quest-object or a loved one, or with heightened knowledge
 - It is also possible to summon the souls of the dead with the rite of *nekyia*. In this case the descent into the Underworld will not be physical and will have the purpose of obtaining knowledge or prophecies from the dead.
-
 
 ## Character Creation
 
@@ -425,7 +431,7 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 |---|-----------|---|---------------|
 |1  |Bellows    |6  |Drill (Manual) |
 |2  |Bucket     |7  |Fishing Rod    |
-|3  | Chalk     |8  |Flint & Steel  |
+|3  |Chalk      |8  |Flint & Steel  |
 |4  |Chisel     |9  |Grease         |
 |5  |Cook Pots  |10 |Staff          |
 
@@ -436,15 +442,15 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 |1  |Amulet  |6  |Lyre          |
 |2  |Bottle  |7  |Necklace      |
 |3  |Copper  |8  |Silver Mirror |
-|4  |Horn    |9  | Talisman     |
+|4  |Horn    |9  |Talisman      |
 |5  |Incense |10 |Tunic         |
 
 #### Bonus Item (d20, roll on table indicated)
 
-|      |                    |                 |         |
-|------|--------------------|-----------------|---------|
-| 1-5  | 6-13               | 14-17           | 18-20   |
-| Tool | Expeditionary Gear | Armor or Weapon | Trinket |
+|                 |                    |                 |             |
+|-----------------|--------------------|-----------------|-------------|
+| 1-5             | 6-13               | 14-17           | 18-20       |
+| Tool or Trinket | Expeditionary Gear | Armor or Weapon | Incantation |
 
 
 <p></p>
@@ -507,7 +513,7 @@ Each of the three **abilities** are used in different circumstances (see **saves
 
 **Kinesis (TEK):** Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
 
-**Kanonas** (THU): Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+**Kanonas** (THU): Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, recite incantations, etc.
 
 **Saves**  
 A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll_equal to or under that ability score_, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
@@ -548,9 +554,9 @@ Treasure is highly valuable, usually bulky, and rarely useful beyond its value. 
 Villages,strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
 
 ## Magic
-In the world of Thálassa there are two kinds of magic: **Eukhé** is the invocation of divine powers and **Goïteia** is the arcane magic.
+In the world of Thálassa there are two kinds of magic: **Eukhé** is the invocation of divine powers and **Goïteia** is reciting incantations.
 
-Everyone may use magic and Thumos is the power source. Each time a spell, invocation, curse or divination is casted, the magic-user consumes THU equal to 1d6 points. This determines the current level of THU until recovered (the same rule for STA in [Healing](#healing) do apply).
+Everyone may use magic and Thumos is the power source. Each time an incantation, invocation, curse or divination is casted, the magic-user consumes THU equal to 1d6 points. This determines the current level of THU until recovered (the same rule for STA in [Healing](#healing) do apply).
 
 ### Eukhé
 
@@ -573,53 +579,81 @@ A time of recollection and concentration is required to appeal to the deity, equ
 
 ### Goïteia
 
-Goïteia is the lowest form of magic, including astrology, alchemy and other forms of esoteric knowledge. 
+Goïteia is the lowest form of magic, including astrology, alchemy and other forms of esoteric knowledge and not well regarded in Ellas. It originated in Egypt where the high priests drew on primal power with *heka*. Over the centuries they have written precise forms, in the form of incantations, to evoke this form of energy. This knowledge was taken away and vulgarized by some outcast priests and then exported to foreign peoples. The incantations thus handed down are limited in number and power and their effects constrained by the precise wording. 
 
-#### Incantations
+**A scroll** contain a single incantations and take up one slot. They cannot be created nor transcribed, but can be recovered from places like labyrinths. If the PC is deprived or in danger, the odigós may require a PC to make a THU save to avoid any ill-effects from reciting the incantation. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
 
-- Assistant Daimon
-- Invisibility
-- Revelation
-- Foreknowledge
-- Attraction
-- Bind Lover
-- Shadow Control
-- Direct Vision
-- Restrain anger
-- Consecration
-- Questioning Corpses
-- Slander 
-- Induce Insomnia 
-- Healing
-- Victory 
-- Coerce 
-- Silence
-- Subjugate
-- Sleep Talk
-- Protection
-- Dream Revelations
-- Bonds Release
-- Gaining Favor
-- Charm Beasts
-- Causing Separation
-- Gain Friendship
-- Separate People
-- Break enchantment
-- Inflict Harm 
-- Dissolve Spells
+#### 30 Incantations
 
-#### Curse Tablets
+**1. Assistant Daimon:** A guardian spirit stays with the target for one day. +3 to each save against THU.
 
+**2. Attraction:** The target is incredibly attracted to the person reciting the spell. The reaction is automatically helpful.
+
+**3. Bind Lover:** This spell permanently binds the target to the caster. But beware: love can also bring jealousy.
+
+**4. Bonds Release:** It nullifies any bond (of loyalty, love, friendship, etc) between two people. The effect is permanent.
+
+**5. Break Enchantment:** It breaks the effects of a charm, whether it be the result of eukhé or goïteia.
+
+**6. Causing Separation:** A permanent curse that allows you to physically divide two objects or people.
+
+**7. Charm Beasts:** It enslaves beasts and non-rational creatures to the caster for 2d6 turns.
+
+**8. Coerce:** Forces a sentient creature or human to respond to the caster's will. Lasts 3 turns.
+
+**9. Consecration:**
+
+**10. Direct Vision:** It allows clairvoyance on a specific object, person or place for only one time per cast.
+
+**11. Dissolve Incantations:** It breaks the effects of any incantation casted with goïteia.
+
+**12. Dream Revelations:** It should be performed before bedtime, focusing the request on a specific subject. During the night a dream will reveal details on it. There is a 1-in-6 chance that the dream will be forgotten upon awakening.
+
+**13. Foreknowledge:**
+
+**14. Gain Friendship:**
+
+**15. Gaining Favor:**
+
+**16. Healing:**
+
+**17. Induce Insomnia :**
+
+**18. Inflict Harm :**
+
+**19. Invisibility:**
+
+**20. Protection:**
+
+**21. Questioning Corpses:**
+
+**22. Restrain anger:**
+
+**23. Revelation:**
+
+**24. Separate People:**
+
+**25. Shadow Control:**
+
+**26. Silence:**
+
+**27. Slander :**
+
+**28. Sleep Talk:** It can only be cast on a person who is already asleep and will force them to talk in their sleep. The person can be questioned and will have to tell the truth.
+
+**29. Subjugate:**
+
+**30. Victory :** It guarantees automatic victory in a fight. It is valid only once per fight against one opponent.
 
 #### Amulets & Talisman
 
 - Demon Protection
-- restraining seal
+- Restraining seal
 - Phylactery 
-- ring for success and favor and . victoty
+- Ring for success and favor and victoty
 
 ### **Gifts**  
-**Gifts** are items imbued with a magical spell or power. Gifts, usually granted by Gods, are powerful but have a limited and precise use. A few examples:
+**Gifts** are items imbued with a magical power. Gifts, usually granted by Gods, are powerful but have a limited and precise use. A few examples:
 
 **Achilleus' Armor** created by Hephaestus, it is impenetrable.
 
@@ -661,7 +695,7 @@ Goïteia is the lowest form of magic, including astrology, alchemy and other for
 The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
 
 **Actions**  
-On their turn, a character may move up to 40ft and take up to one action. This may be_casting a spell, attacking, making a second move, or some other reasonable action.
+On their turn, a character may move up to 40ft and take up to one action. This may be _casting an incantation, attacking, making a second move, or some other reasonable action.
 
 Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the odigós calls for a save for appropriate players or NPCs. All actions, attacks, and movements take place simultaneously.
 
@@ -775,7 +809,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 # Rules Summary
 
 **ACTIONS**  
-On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a TEK save to see if they go before their enemies.
+On their turn, a character may move up to 40ft and take up to one action. Actions may include casting an incantation, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a TEK save to see if they go before their enemies.
 
 **Retreating** from a dangerous situation always requires a successful TEK save, as well as a safe destination to run to.
 
