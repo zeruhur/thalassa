@@ -272,13 +272,13 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 
 #### Origin
 
-|      |                |      |           |      |               |      |      |
-| ---- | -------------- | ---- | --------- | ---- | ------------- | ---- | ---- |
-| 1    | Child of deity | 6    | Ethyopian | 11   | Child of king | 16   |      |
-| 2    | Child of hero  | 7    | Spartan   | 12   | Lydian        | 17   |      |
-| 3    | Egyptian       | 8    | Athenian  | 13   | Phoenician    | 18   |      |
-| 4    | Amazon         | 9    | Cretese   | 14   | Cypriot       | 19   |      |
-| 5    | Cimmerian      | 10   | Argive    | 15   | Mycenaean     | 20   |      |
+|      |                |      |               |      |           |      |            |
+| ---- | -------------- | ---- | ------------- | ---- | --------- | ---- | ---------- |
+| 1    | Amazon         | 6    | Child of king | 11   | Egyptian  | 16   | Phoenician |
+| 2    | Argive         | 7    | Ciconian      | 12   | Ethyopian | 17   | Rhodian    |
+| 3    | Athenian       | 8    | Cimmerian     | 13   | Lydian    | 18   | Spartan    |
+| 4    | Child of deity | 9    | Cretese       | 14   | Mycenaean | 19   | Thracian   |
+| 5    | Child of hero  | 10   | Cypriot       | 15   | Mysian    | 20   | Trojan     |
 
 <p></p>
 
