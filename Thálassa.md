@@ -1,4 +1,4 @@
-# Thálassa System Reference Document (v0.2)
+# Thálassa System Reference Document (v0.4)
 
 **Thálassa** is based on [*Cairn SRD*](https://cairnrpg.com/) and is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
@@ -10,8 +10,9 @@ Thálassa is an adventure game for one facilitator (the odigós) and at least on
 - [Principles for Players](#principles-for-players)
 - [Principles of the World](#principles-of-the-world)
 - [Character Creation](#character-creation)
-- [Equipment](#equipment-list-prices-in-gold-pieces)
+- [Equipment](#equipment-list-prices-in-electrum)
 - [Rules](#rules)
+- [Magic](#magic)
 - [Bestiary](#bestiary)
 - [100 Spells](#100-incantations)
 - [Rules Summary](#rules-summary)
@@ -46,6 +47,7 @@ The odigós and the players each have guidelines that help foster a specific pla
 Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
 
 [back to index](#index)
+
 <p></p>
 
 ## Principles for odigoí
@@ -133,6 +135,7 @@ Players trust one another to engage with the shared setting, character goals, an
 - Keep things moving forward and play to see what happens.
 
 [back to index](#index)
+
 <p></p>
 
 ## Principles of the World
@@ -177,6 +180,8 @@ Players trust one another to engage with the shared setting, character goals, an
 - It is possible to descend into the Underworld with the rite of *katabasis*. The ability to enter the realm of the dead while still alive, and to return, is a proof of being a hero. The purpose of the descent is to recover a quest-object or a loved one, or with heightened knowledge
 - It is also possible to summon the souls of the dead with the rite of *nekyia*. In this case the descent into the Underworld will not be physical and will have the purpose of obtaining knowledge or prophecies from the dead.
 
+[back to index](#index)
+
 ## Character Creation
 
 **Name, Origin & Traits**  
@@ -186,7 +191,7 @@ Next, roll for the rest of your character's **traits** (appearance, speech, mann
 
 Finally, roll for their **age** (2d20+10).
 
-#### Ability Scores  
+### Ability Scores  
 Player Characters (PCs) have just three attributes:  
 ***kratos* (KRA)** (strength), ***tekhne*  (TEK)** (nimbleness), and ***thumos* (THU)** (control). When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
 
@@ -196,7 +201,7 @@ Ines rolls for her character's **KRA**, resulting in a **2**, a **4**, and a **6
 ### Stamina
 Roll 1d6 to determine your PC's starting **Stamina** (STA), which reflects their ability to avoid damage in combat. STA does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's STA exactly to 0, the player must roll on the **Scars** table.
 
-#### Inventory
+### Inventory
 Characters have a total of inventory slots equal to their KRA: this represents the character's ability to to bear the weight and fatigue of carrying the equipment without being adversely affected.
 
 Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the odigós' discretion.
@@ -205,7 +210,7 @@ Most items take up one slot, and small items can be bundled together. Slots are 
 
 A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Hirelings** can also be paid to carry equipment.
 
-#### Starting Gear
+### Starting Gear
 All PCs begin with:
 
 - Three days' rations (one slot)
@@ -267,13 +272,13 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 
 #### Origin
 
-|      |      |      |      |      |      |      |      |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    |      | 6    |      | 11   |      | 16   |      |
-| 2    |      | 7    |      | 12   |      | 17   |      |
-| 3    |      | 8    |      | 13   |      | 18   |      |
-| 4    |      | 9    |      | 14   |      | 19   |      |
-| 5    |      | 10   |      | 15   |      | 20   |      |
+|      |                |      |           |      |               |      |      |
+| ---- | -------------- | ---- | --------- | ---- | ------------- | ---- | ---- |
+| 1    | Child of deity | 6    | Ethyopian | 11   | Child of king | 16   |      |
+| 2    | Child of hero  | 7    | Spartan   | 12   | Lydian        | 17   |      |
+| 3    | Egyptian       | 8    | Athenian  | 13   | Phoenician    | 18   |      |
+| 4    | Amazon         | 9    | Cretese   | 14   | Cypriot       | 19   |      |
+| 5    | Cimmerian      | 10   | Argive    | 15   | Mycenaean     | 20   |      |
 
 <p></p>
 
@@ -452,8 +457,7 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 | 1-5             | 6-13               | 14-17           | 18-20       |
 | Tool or Trinket | Expeditionary Gear | Armor or Weapon | Incantation |
 
-
-<p></p>
+[back to index](#index)
 
 ## Equipment List (Prices in Electrum)  
 
@@ -505,6 +509,8 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 
 <p></p>
 
+[back to index](#index)
+
 ## Rules
 **Abilities**  
 Each of the three **abilities** are used in different circumstances (see **saves**, below).
@@ -518,7 +524,7 @@ Each of the three **abilities** are used in different circumstances (see **saves
 **Saves**  
 A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll_equal to or under that ability score_, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
 
-~~**Example:** _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 TEK makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_~~
+**Example:** _Althea encounters a group of wild harpies standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 TEK makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
 
 **Deprivation & Fatigue**  
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover STA or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
@@ -553,6 +559,8 @@ Treasure is highly valuable, usually bulky, and rarely useful beyond its value. 
 
 Villages,strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
 
+[back to index](#index)
+
 ## Magic
 In the world of Thálassa there are two kinds of magic: **Eukhé** is the invocation of divine powers and **Goïteia** is reciting incantations.
 
@@ -581,7 +589,9 @@ A time of recollection and concentration is required to appeal to the deity, equ
 
 Goïteia is the lowest form of magic, including astrology, alchemy and other forms of esoteric knowledge and not well regarded in Ellas. It originated in Egypt where the high priests drew on primal power with *heka*. Over the centuries they have written precise forms, in the form of incantations, to evoke this form of energy. This knowledge was taken away and vulgarized by some outcast priests and then exported to foreign peoples. The incantations thus handed down are limited in number and power and their effects constrained by the precise wording. 
 
-**A scroll** contain a single incantations and take up one slot. They cannot be created nor transcribed, but can be recovered from places like labyrinths. If the PC is deprived or in danger, the odigós may require a PC to make a THU save to avoid any ill-effects from reciting the incantation. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+**A scroll** contain a single incantations and take up one slot. They cannot be created nor transcribed, but can be recovered from places like labyrinths. If the PC is deprived or in danger, the odigós may require a PC to make a save against THU to avoid any ill-effects from reciting the incantation. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+
+Alternatively, it is possible to memorize the content of the scroll to avoid slots consumption. In this case, the practitioner takes 1 day to memorize the incantation and then they burn the scroll. Save against THU, failing results in the loss of the spell and the need to find another copy.
 
 #### 30 Incantations
 
@@ -589,7 +599,7 @@ Goïteia is the lowest form of magic, including astrology, alchemy and other for
 
 **2. Attraction:** The target is incredibly attracted to the person reciting the spell. The reaction is automatically helpful.
 
-**3. Bind Lover:** This spell permanently binds the target to the caster. But beware: love can also bring jealousy.
+**3. Bind Lover:** This spell permanently binds the target to the practitioner. But beware: love can also bring jealousy.
 
 **4. Bonds Release:** It nullifies any bond (of loyalty, love, friendship, etc) between two people. The effect is permanent.
 
@@ -597,9 +607,9 @@ Goïteia is the lowest form of magic, including astrology, alchemy and other for
 
 **6. Causing Separation:** A permanent curse that allows to physically divide two objects.
 
-**7. Charm Beasts:** It enslaves beasts and non-rational creatures to the caster for 2d6 turns.
+**7. Charm Beasts:** It enslaves beasts and non-rational creatures to the practitioner for 2d6 turns.
 
-**8. Coerce:** Forces a sentient creature or human to respond to the caster's command. Lasts 3 turns.
+**8. Coerce:** Forces a sentient creature or human to respond to the practitioner's command. Lasts 3 turns.
 
 **9. Consecration:** Gives a temporary boost to KRA or TEK of +3 for 1d6 turns.
 
@@ -609,11 +619,11 @@ Goïteia is the lowest form of magic, including astrology, alchemy and other for
 
 **12. Dream Revelations:** It should be performed before bedtime, focusing the request on a specific subject. During the night a dream will reveal details on it. There is a 1-in-6 chance that the dream will be forgotten upon awakening.
 
-**13. Foreknowledge:** The caster will be able to predict the future on a specific event he focuses on while reciting the incantation. It can only be attempted once per event.
+**13. Foreknowledge:** The practitioner will be able to predict the future on a specific event he focuses on while reciting the incantation. It can only be attempted once per event.
 
 **14. Gain Friendship:** It automatically makes friends of the target permanently.
 
-**15. Gaining Favor:** The target becomes well disposed towards the caster. The effect lasts 1d6 days, after which his disposition may change (reaction roll).
+**15. Gaining Favor:** The target becomes well disposed towards the practitioner. The effect lasts 1d6 days, after which his disposition may change (reaction roll).
 
 **16. Healing:** It allows immediate and total recovery of stamina.
 
@@ -629,11 +639,11 @@ Goïteia is the lowest form of magic, including astrology, alchemy and other for
 
 **22. Restrain Anger:** It instantly appeases any target blinded by anger.
 
-**23. Revelation:** The caster receives an insight into something that was not previously clear or known.
+**23. Revelation:** The practitioner receives an insight into something that was not previously clear or known.
 
 **24. Separate People:** A permanent curse that allows to physically divide two people forever.
 
-**25. Shadow Control:** The caster gains control of the target's shadow (e.g., to spy on it). It can only be cast once per target and the duration is at the caster's discretion.
+**25. Shadow Control:** The practitioner gains control of the target's shadow (e.g., to spy on it). It can only be cast once per target and the duration is at the practitioner's discretion.
 
 **26. Silence:** This curse deprives you of the ability to speak or make sounds of any kind for 1d6 turns.
 
@@ -641,11 +651,11 @@ Goïteia is the lowest form of magic, including astrology, alchemy and other for
 
 **28. Sleep Talk:** It can only be cast on a person who is already asleep and will force them to talk in their sleep. The person can be questioned and will have to tell the truth.
 
-**29. Subjugate:** The target is completely enslaved to the caster's will until the caster decides to release them. It only works with humans.
+**29. Subjugate:** The target is completely enslaved to the practitioner's will until released. It only works with humans.
 
 **30. Victory:** It guarantees automatic victory in a fight. It is valid only once per fight against one opponent.
 
-#### Amulets & Talisman
+### Amulets & Talisman
 An amulet is an object believed to confer protection upon its possessor. Also a talisman is any object intended to protect, heal, or harm individuals for whom they are made, but a key difference is in their form and materiality, with talismans often taking the form of objects like clothing, weaponry, or parchment inscribed with magic texts.
 Some examples of function are:
 - Demon Protection
@@ -690,6 +700,8 @@ Some examples of function are:
 
 **Winged Sandals**: wore by Hermes, allowing the god to fly.
 
+[back to index](#index)
+
 ## Combat
 
 **Rounds**  
@@ -703,12 +715,12 @@ Each round, the PCs declare what they are doing before dice are rolled. If a cha
 **Turns**  
 The odigós will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a TEK save to act before their opponents.
 
-~~**Example:** _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a TEK save. She fails, and the Troll gets to attack first._~~
+**Example:** _Althea has accidentally stumbled onto the stomping grounds of a massive Cyclop. In order to make a move before the Cyclop, she makes a TEK save. She fails, and the Cyclop gets to attack first._
 
 **Attacking & Damage**  
 The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's STA. Unarmed attacks always do 1d4 damage.
 
-~~**Example:** _The Wood Troll roars, swinging its club at Bea, who has 5 STA. The club does 1d10 damage and the odigós rolls a 4. They subtract 1 to account for Bea's leather armor, leaving Bea with 2 STA remaining_.~~
+**Example:** _The Cyclop roars, swinging its club at Althea, who has 5 STA. The club does 1d10 damage and the odigós rolls a 4. They subtract 1 to account for Althea's leather armor, leaving Althea with 2 STA remaining_.
 
 **Multiple Attackers**  
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
@@ -772,7 +784,7 @@ When an attack reduces a PC's STA to exactly 0, they are uniquely impacted. Look
 
 ## Bestiary
 
-
+TBD
 
 ### Creating Monsters
 Use the following template to model any more sophisticated Monster or NPC:
