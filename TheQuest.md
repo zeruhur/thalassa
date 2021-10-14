@@ -22,8 +22,8 @@ If you need to build a Quest on the fly or you are looking for inspiration you c
 2. Stop a Legendary Creature
 3. Find a Legendary Place
 4. Appease the wrath of a deity (to stop famine, diseases,earthquakes,etc)
-5. Escorting or delivering something
-6. Rescuing someone
+5. Escort or delivering something
+6. Rescue someone
 
 ## Why
 
