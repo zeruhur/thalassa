@@ -29,16 +29,16 @@ If you need to build a Quest on the fly or you are looking for inspiration you c
 
 1. To help the inquirer
 2. To get your hands on the Prize
-3. You are forced to do it
+3. An oracle has foreseen it
 4. Your daimon urges you to do so
 5. To seek fortune and glory
 6. To avenge a wrong (to you or someone else)
 
-## Where
+## Where (1d6 days distant)
 
 1. Caverns
 2. Ruins
-3. Faraway Land
+3. Faraway Land (see Seafaring Adventures)
 4. Labyrinth
 5. Palace
 6. Abode of a deity
