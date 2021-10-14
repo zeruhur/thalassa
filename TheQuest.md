@@ -5,6 +5,8 @@ nav_exclude: true
 
 # The Quest
 
+If you need to build a Quest on the fly or you are looking for inspiration you can pull on the following tables to build the outline.
+
 ## Who
 
 1. A deity (roll on the list if you see fit)
