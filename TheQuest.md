@@ -54,7 +54,7 @@ If you need to build a Quest on the fly or you are looking for inspiration you c
 
 ## Obstacle
 
-1. Someone wants to stop you (1-2: a god 3-4: another party 5-6: a hero)
+1. Someone wants to stop you (1-2: a deity 3-4: another party 5-6: a hero)
 2. You have been deceived, the mission is not what it seems
 3. The target is different from what was planned
 4. Someone in your party is not who they seem
