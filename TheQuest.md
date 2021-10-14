@@ -16,7 +16,7 @@ nav_exclude: true
 
 ## What
 
-1. Recover a Legendary Item
+1. Recover a Gift
 2. Stop a Legendary Creature
 3. Find a Legendary Place
 4. Appease the wrath of a deity (to stop famine, diseases,earthquakes,etc)
