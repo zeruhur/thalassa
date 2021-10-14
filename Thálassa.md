@@ -1,4 +1,4 @@
-# Thálassa System Reference Document (v0.4.1)
+# Thálassa System Reference Document (v0.4.2)
 
 **Thálassa** is based on [*Cairn SRD*](https://cairnrpg.com/) and is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
@@ -870,3 +870,25 @@ Damage that reduces a target's STA **below** 0 decreases their KRA by the remain
 Having KRA 0 means **death;** having TEK 0 is paralysis; having THU 0 is delirium.
 
 [back to index](#index)
+
+## Credits and Acknowledgements
+
+*Thálassa* is based on the Cairn SRD by Yochai Gal (release under CC BY-SA 4.0 license) which derived from Weird North by Jim Parkin, Into the Odd by Chris McDowall, and Knave by Ben Milton.
+
+A huge thanks to:
+
+- Yochai Gal: for Cairn, the NSR Discord server, and the kind support.
+- Tom Van Winkle: for correcting all the Greek words and addressing me on magic in the ancient world.
+- Alessio Persichetti: for all the valuable advice and for tolerating my lucubrations
+- The NSR and The Cauldron communities: for advice and support on this project
+
+I dedicate as always this work to my wife Cristina. Thanks for giving up some of your time with me.
+
+## Changelog
+
+* v 0.4.2: added Credits and Acknowledgements
+* v 0.4.1: fixed the index
+* v 0.4: first public release, completed Magic with Goïteia and Incantations
+* v 0.3: added Principles of the World, completed backgrounds, change magic terminology, completed Eukhé
+* v 0.2: drafted Magic, completed equipment, changed attributes terminology, added Gifts
+* v 0.1: forked Cairn, modified encumbrance rules,  replaced Treasure with Prize
