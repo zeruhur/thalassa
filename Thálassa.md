@@ -1,4 +1,4 @@
-# Thálassa System Reference Document (v0.4)
+# Thálassa System Reference Document (v0.4.1)
 
 **Thálassa** is based on [*Cairn SRD*](https://cairnrpg.com/) and is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
