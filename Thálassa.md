@@ -13,8 +13,8 @@ Thálassa is an adventure game for one facilitator (the odigós) and at least on
 - [Equipment](#equipment-list-prices-in-electrum)
 - [Rules](#rules)
 - [Magic](#magic)
+- [Combat](#combat)
 - [Bestiary](#bestiary)
-- [100 Spells](#100-incantations)
 - [Rules Summary](#rules-summary)
 
 
