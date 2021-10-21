@@ -13,7 +13,7 @@ The inspiration for this game is drawn primarily from the literary works of Anci
 - Andrews, Claire. *Daughter of Sparta*
 - Atwood, Margaret. *The Penelopiad*
 - Barker, Pat. *The Silence of the Girls* and *The Women of Troy*
-- Graves, Robert. *The Greek Myths* and *Homer's Daughter* 
+- Graves, Robert. *The Greek Myths*, *Homer's Daughter*, *The Golden Fleece*
 - Haynes, Natalie. *A Thousand Ships*
 - Miller, Madeline. *Circe* and *The Song of Achilles*
 - Renault, Mary. *The Bull from the Sea* and *The King Must Die*
