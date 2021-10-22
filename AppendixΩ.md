@@ -1,3 +1,8 @@
+---
+nav_exclude: true
+
+---
+
 # Appendix Ω
 
 The inspiration for this game is drawn primarily from the literary works of Ancient Greece, but to find other ideas you can take a look at other sources. Here I suggest some of them, but surely you can find many others.
