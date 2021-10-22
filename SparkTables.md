@@ -1,5 +1,6 @@
 ---
-nav_exclude: true
+nav_exclude: false
+nav_order: 3
 ---
 
 # Spark Tables
