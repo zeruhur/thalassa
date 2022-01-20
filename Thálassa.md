@@ -599,61 +599,61 @@ Alternatively, it is possible to memorize the content of the scroll to avoid slo
 
 #### 30 Incantations
 
-**1. Assistant Daimon:** A guardian spirit stays with the target for one day. +3 to each save against THU.
+**1. Assistant Daimon:** A guardian spirit stays with the target for one day. +3 to each save against THU.
 
 **2. Attraction:** The target is incredibly attracted to the person reciting the spell. The reaction is automatically helpful.
 
-**3. Bind Lover:** This spell permanently binds the target to the practitioner. But beware: love can also bring jealousy.
+**3. Bind Lover:** This spell permanently binds the target to the practitioner. But beware: love can also bring jealousy.
 
-**4. Bonds Release:** It nullifies any bond (of loyalty, love, friendship, etc) between two people. The effect is permanent.
+**4. Bonds Release:** It nullifies any bond (of loyalty, love, friendship, etc) between two people. The effect is permanent.
 
-**5. Break Enchantment:** It breaks the effects of a charm, whether it be the result of eukhé or goïteia.
+**5. Break Enchantment:** It breaks the effects of a charm, whether it be the result of eukhé or goïteia.
 
-**6. Causing Separation:** A permanent curse that allows to physically divide two objects.
+**6. Causing Separation:** A permanent curse that allows to physically divide two objects.
 
-**7. Charm Beasts:** It enslaves beasts and non-rational creatures to the practitioner for 2d6 turns.
+**7. Charm Beasts:** It enslaves beasts and non-rational creatures to the practitioner for 2d6 turns.
 
 **8. Coerce:** Forces a sentient creature or human to respond to the practitioner's command. Lasts 3 turns.
 
 **9. Consecration:** Gives a temporary boost to KRA or TEK of +3 for 1d6 turns.
 
-**10. Direct Vision:** It allows clairvoyance on a specific object, person or place for only one time per cast.
+**10. Direct Vision:** It allows clairvoyance on a specific object, person or place for only one time per cast.
 
-**11. Dissolve Incantations:** It breaks the effects of any incantation casted with goïteia.
+**11. Dissolve Incantations:** It breaks the effects of any incantation casted with goïteia.
 
-**12. Dream Revelations:** It should be performed before bedtime, focusing the request on a specific subject. During the night a dream will reveal details on it. There is a 1-in-6 chance that the dream will be forgotten upon awakening.
+**12. Dream Revelations:** It should be performed before bedtime, focusing the request on a specific subject. During the night a dream will reveal details on it. There is a 1-in-6 chance that the dream will be forgotten upon awakening.
 
 **13. Foreknowledge:** The practitioner will be able to predict the future on a specific event he focuses on while reciting the incantation. It can only be attempted once per event.
 
-**14. Gain Friendship:** It automatically makes friends of the target permanently.
+**14. Gain Friendship:** It automatically makes friends of the target permanently.
 
-**15. Gaining Favor:** The target becomes well disposed towards the practitioner. The effect lasts 1d6 days, after which his disposition may change (reaction roll).
+**15. Gaining Favor:** The target becomes well disposed towards the practitioner. The effect lasts 1d6 days, after which his disposition may change (reaction roll).
 
 **16. Healing:** It allows immediate and total recovery of stamina.
 
-**17. Induce Insomnia :** This curse causes a state of insomnia to the victim, which prevents him from resting and healing properly. For the effect roll 1d6: 1-2: 3 days 3-4: 1 week, 5: 2 weeks, 6: permanent.
+**17. Induce Insomnia :** This curse causes a state of insomnia to the victim, which prevents him from resting and healing properly. For the effect roll 1d6: 1-2: 3 days 3-4: 1 week, 5: 2 weeks, 6: permanent.
 
-**18. Inflict Harm:** It deals 1d6 direct damage to the target.
+**18. Inflict Harm:** It deals 1d6 direct damage to the target.
 
 **19. Invisibility:** The target becomes completely invisible for 1d6 turns. The effect does not extend to weapons and equipment.
 
 **20. Protection:** Subtract 1d6 damage for the next 3 turns.
 
-**21. Questioning Corpses:** Makes it possible to interrogate a human or creature corpse if it has been dead for less than a week. The target will respond as if it were alive (not bound to the truth).
+**21. Questioning Corpses:** Makes it possible to interrogate a human or creature corpse if it has been dead for less than a week. The target will respond as if it were alive (not bound to the truth).
 
-**22. Restrain Anger:** It instantly appeases any target blinded by anger.
+**22. Restrain Anger:** It instantly appeases any target blinded by anger.
 
 **23. Revelation:** The practitioner receives an insight into something that was not previously clear or known.
 
-**24. Separate People:** A permanent curse that allows to physically divide two people forever.
+**24. Separate People:** A permanent curse that allows to physically divide two people forever.
 
-**25. Shadow Control:** The practitioner gains control of the target's shadow (e.g., to spy on it). It can only be cast once per target and the duration is at the practitioner's discretion.
+**25. Shadow Control:** The practitioner gains control of the target's shadow (e.g., to spy on it). It can only be cast once per target and the duration is at the practitioner's discretion.
 
 **26. Silence:** This curse deprives you of the ability to speak or make sounds of any kind for 1d6 turns.
 
 **27. Slander:** This curse causes a slander to be believed to be true by anyone. The effect is permanent.
 
-**28. Sleep Talk:** It can only be cast on a person who is already asleep and will force them to talk in their sleep. The person can be questioned and will have to tell the truth.
+**28. Sleep Talk:** It can only be cast on a person who is already asleep and will force them to talk in their sleep. The person can be questioned and will have to tell the truth.
 
 **29. Subjugate:** The target is completely enslaved to the practitioner's will until released. It only works with humans.
 
@@ -788,7 +788,12 @@ When an attack reduces a PC's STA to exactly 0, they are uniquely impacted. Look
 
 ## Bestiary
 
-TBD
+### Centaur
+4 STA, 1 Armor, 12 KRA, 10 TEK, 6 THU, Rocks (d8)
+- Primitive half-man, half-horse savages who inhabit mountains and forests.
+- Armed with rocks and tree branches.
+- Galloping can overwhelm the enemies.
+
 
 ### Creating Monsters
 Use the following template to model any more sophisticated Monster or NPC:
