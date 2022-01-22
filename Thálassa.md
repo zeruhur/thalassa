@@ -825,7 +825,7 @@ When an attack reduces a PC's STA to exactly 0, they are uniquely impacted. Look
 - For every decapitated head, two grow if not cauterized
 
 ### Python
-8 STA, 12 KRA, 12 TEK, 6 THU, Poisonous Bites (d6)
+6 STA, 10 KRA, 12 TEK, 6 THU, Poisonous Bites (d6)
 - Monstrous dragon-serpent set by Gaia to guard the sacred oracle of Delphi
 - It will dodge attacks with ease if attacked in melee
 - Bites are poisonous
