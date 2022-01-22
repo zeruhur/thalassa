@@ -15,11 +15,13 @@ The inspiration for this game is drawn primarily from the literary works of Anci
 - Homer. *The Iliad* and *The Odyssey*. Hymns to Aphrodite, Demeter and Hermes
 
 ## Modern Novels and Retellings
-- Andrews, Claire. *Daughter of Sparta*
 - Atwood, Margaret. *The Penelopiad*
 - Barker, Pat. *The Silence of the Girls* and *The Women of Troy*
 - Graves, Robert. *The Greek Myths*, *Homer's Daughter*, *The Golden Fleece*
 - Haynes, Natalie. *A Thousand Ships*
+- Heywood, Claire. *Daughters of Sparta*
+- Le Guin, Ursula K. *Lavinia*
+- Lynn, Hannah. *Athena's Child*, *A Spartan's Sorrow*, *Queens of Themiscyra*
 - Miller, Madeline. *Circe* and *The Song of Achilles*
 - Renault, Mary. *The Bull from the Sea* and *The King Must Die*
 
