@@ -816,7 +816,7 @@ When an attack reduces a PC's STA to exactly 0, they are uniquely impacted. Look
 9 STA, 12 KRA, 16 TEK, 8 THU, Bites (d6)
 - Hundred-headed serpent, named Ladon, guarding the golden apples of the Hesperides
 - Ladon attacks only if provoked or if stealing apples is attempted
-- Burst of poisonous bites (instant critical)
+- Burst of bites (instant critical)
 
 ### Lernaean Hydra
 10 STA, 1 Armor, 12 KRA, 14 TEK, 8 THU, Bites (d6), Tailblow (d8)
@@ -825,7 +825,7 @@ When an attack reduces a PC's STA to exactly 0, they are uniquely impacted. Look
 - For every decapitated head, two grow if not cauterized
 
 ### Python
-8 STA, 12 KRA, 12 TEK, 6 THU, Bites (d6), Tailblow (d8)
+8 STA, 12 KRA, 12 TEK, 6 THU, Poisonous Bites (d6)
 - Monstrous dragon-serpent set by Gaia to guard the sacred oracle of Delphi
 - It will dodge attacks with ease if attacked in melee
 - Bites are poisonous
