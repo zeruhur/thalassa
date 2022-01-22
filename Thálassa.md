@@ -789,19 +789,19 @@ When an attack reduces a PC's STA to exactly 0, they are uniquely impacted. Look
 ## Bestiary
 
 ### Cetus
-12 STA, 3 Armor, 18 KRA, 12 TEK, 6 THU, Tail (d10)
+12 STA, 3 Armor, 18 KRA, 12 TEK, 10 THU, Tail (d10)
 - Monstrous colossal sea-dragon, the size of a ship
 - Attacks ships by smashing them with its fan-like tail
 - Its spines, a cubit thick, can pierce a man (instant critical)
 
 ### Chimera
-7 STA, 14 KRA, 12 TEK, 4 THU, Claws (d8), Bites (d6, 2x turn)
+7 STA, 14 KRA, 12 TEK, 10 THU, Claws (d8), Bites (d6, 2x turn)
 - Lion's body, three-heads: of a lion, goat on its back and serpent as tail
 - Uses claws ad bites as natural weapons
 - Fire-breathing creature, it can melt metal (d10 damage)
 
 ### Centaur
-4 STA, 1 Armor, 12 KRA, 10 TEK, 6 THU, Rocks (d8)
+4 STA, 1 Armor, 12 KRA, 10 TEK, 8 THU, Rocks (d8)
 - Primitive half-man, half-horse savages who inhabit mountains and forests.
 - Armed with rocks and tree branches.
 - Galloping can overwhelm the enemies.
@@ -813,19 +813,19 @@ When an attack reduces a PC's STA to exactly 0, they are uniquely impacted. Look
 - Its teeth have magical prorties: if seeded they spring Spartoi
 
 ### Hesperian Dragon
-9 STA, 12 KRA, 16 TEK, 8 THU, Bites (d6)
+9 STA, 12 KRA, 16 TEK, 10 THU, Bites (d6)
 - Hundred-headed serpent, named Ladon, guarding the golden apples of the Hesperides
 - Ladon attacks only if provoked or if stealing apples is attempted
 - Burst of bites (instant critical)
 
 ### Lernaean Hydra
-10 STA, 1 Armor, 12 KRA, 14 TEK, 8 THU, Bites (d6), Tailblow (d8)
+10 STA, 1 Armor, 12 KRA, 14 TEK, 10 THU, Bites (d6), Tailblow (d8)
 - Gigantic, nine-headed water-serpent, which haunts the swamps of Lerna
 - Quirk, tactic, or peculiarity making this NPC unique
 - For every decapitated head, two grow if not cauterized
 
 ### Python
-6 STA, 10 KRA, 12 TEK, 6 THU, Poisonous Bites (d6)
+6 STA, 10 KRA, 12 TEK, 8 THU, Poisonous Bites (d6)
 - Monstrous dragon-serpent set by Gaia to guard the sacred oracle of Delphi
 - It will dodge attacks with ease if attacked in melee
 - Bites are poisonous
