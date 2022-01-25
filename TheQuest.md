@@ -60,6 +60,3 @@ If you need to build a Quest on the fly or you are looking for inspiration you c
 4. Someone in your party is not who they seem
 5. You arrived too late/early
 6. The target is somewhere else
-
-
-
