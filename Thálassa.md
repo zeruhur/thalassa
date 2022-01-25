@@ -789,46 +789,46 @@ When an attack reduces a PC's STA to exactly 0, they are uniquely impacted. Look
 ## Bestiary
 
 ### Cetus
-12 STA, 3 Armor, 18 KRA, 12 TEK, 10 THU, Tail (d10)
+10 STA, 3 Armor, 18 KRA, 4 TEK, 18 THU, spikey ail (d20, automatic fail against Critical Damage)
 - Monstrous colossal sea-dragon, the size of a ship
 - Attacks ships by smashing them with its fan-like tail
 - Its spines, a cubit thick, can pierce a man (instant critical)
 
 ### Chimera
-7 STA, 14 KRA, 12 TEK, 10 THU, Claws (d8), Bites (d6, 2x turn)
+7 STA, 18 KRA, 4 TEK, 10 THU, claws (d6), 2x bite (d8), fire-breath (d12)
 - Lion's body, three-heads: of a lion, goat on its back and serpent as tail
 - Uses claws ad bites as natural weapons
-- Fire-breathing creature, it can melt metal (d10 damage)
+- Fire-breathing creature, it can melt metal. Invulnerable to external attacks
 
 ### Centaur
-4 STA, 1 Armor, 12 KRA, 10 TEK, 8 THU, Rocks (d8)
+6 STA, 1 Armor, 15 TEK, rocks and branches (d6)
 - Primitive half-man, half-horse savages who inhabit mountains and forests.
 - Armed with rocks and tree branches.
-- Galloping can overwhelm the enemies.
+- Galloping can crush the enemies.
 
 ### Dragon of Colchis
-10 STA, 2 Armor, 16 KRA, 14 TEK, 10 THU, Bites (d8), Tailblow (d10) 
+10 STA, 2 Armor, bite (d8), tailblow (d10) 
 - Giant, watchful serpent which guards the Golden Fleece in Colchis
-- Each turn it may bite or attack with a tailblow
+- Each turn it attacks with bites and a tailblow
 - Its teeth have magical prorties: if seeded they spring Spartoi
 
 ### Hesperian Dragon
-9 STA, 12 KRA, 16 TEK, 10 THU, Bites (d6)
+9 STA, 15 KRA, 18 TEK, 15 THU, burst of bites (d10, automatic fail on saves against Critical Damage)
 - Hundred-headed serpent, named Ladon, guarding the golden apples of the Hesperides
 - Ladon attacks only if provoked or if stealing apples is attempted
-- Burst of bites (instant critical)
+- Critical Damage: the target loses a limb, which fuses with the dragon and becomes an additional head.
 
 ### Lernaean Hydra
-10 STA, 1 Armor, 12 KRA, 14 TEK, 10 THU, Bites (d6), Tailblow (d8)
+10 STA, 2 Armor, 1 bite x head  (or Blast Damage) (d8), Tailblow (d10)
 - Gigantic, nine-headed water-serpent, which haunts the swamps of Lerna
-- Quirk, tactic, or peculiarity making this NPC unique
+- If 3 or more heads survives it attacks with a single d8 Blast Damage
 - For every decapitated head, two grow if not cauterized
 
 ### Python
-6 STA, 10 KRA, 12 TEK, 8 THU, Poisonous Bites (d6)
+10 STA, 18 TEK, 8 THU, poisonous bites (d8)
 - Monstrous dragon-serpent set by Gaia to guard the sacred oracle of Delphi
-- It will dodge attacks with ease if attacked in melee
-- Bites are poisonous
+- Immune to melee attacks
+- Poison will cause excruciating pain, as live fire through the veins.
 
 
 ### Creating Monsters
@@ -924,8 +924,9 @@ A huge thanks to:
 
 - Yochai Gal: for Cairn, the NSR Discord server, and the kind support.
 - Tom Van Winkle: for correcting all the Greek words and addressing me on magic in the ancient world.
-- Alessio Persichetti: for all the valuable advice and for tolerating my lucubrations
-- The NSR and The Cauldron communities: for advice and support on this project
+- Alessio Persichetti: for all the valuable advice and for tolerating my lucubrations.
+- Giovanni Tamba: for directing me on monster statics with his advice. 
+- The NSR and The Cauldron communities: for advice and support on this project.
 
 I dedicate as always this work to my wife Cristina. Thanks for giving up some of your time with me.
 
