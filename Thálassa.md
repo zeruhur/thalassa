@@ -2,7 +2,7 @@
 nav_order: 1
 ---
 
-# Thálassa System Reference Document (v0.4.2)
+# Thálassa System Reference Document (v0.5.1)
 
 **Thálassa** is based on [*Cairn SRD*](https://cairnrpg.com/) and is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
@@ -181,7 +181,7 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ### The Underworld
 - The Underworld is a real (but hidden to the living) physical place where the souls of the dead dwell. These are only shadows of the mortal that they were, with no sense of purpose. The Underworld has a complex geography it is crossed by rivers and inhabited and defended by creatures.
-- It is possible to descend into the Underworld with the rite of *katabasis*. The ability to enter the realm of the dead while still alive, and to return, is a proof of being a hero. The purpose of the descent is to recover a quest-object or a loved one, or with heightened knowledge
+- It is possible to descend into the Underworld with the rite of *katabasis*. The ability to enter the realm of the dead while still alive, and to return, is a proof of being a hero. The purpose of the descent is to recover a quest-object or a loved one, or with heightened knowledge.
 - It is also possible to summon the souls of the dead with the rite of *nekyia*. In this case the descent into the Underworld will not be physical and will have the purpose of obtaining knowledge or prophecies from the dead.
 
 [back to index](#index)
@@ -436,7 +436,7 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 
 #### Tools (d10)
 
-|||||
+|   |           |   |               |
 |---|-----------|---|---------------|
 |1  |Bellows    |6  |Drill (Manual) |
 |2  |Bucket     |7  |Fishing Rod    |
@@ -446,7 +446,7 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 
 #### Trinkets (d10)
 
-|||||
+|   |        |   |              |
 |---|--------|---|--------------|
 |1  |Amulet  |6  |Lyre          |
 |2  |Bottle  |7  |Necklace      |
@@ -523,7 +523,7 @@ Each of the three **abilities** are used in different circumstances (see **saves
 
 **Kinesis (TEK):** Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
 
-**Kanonas** (THU): Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, recite incantations, etc.
+**Kanonas (THU)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, recite incantations, etc.
 
 **Saves**  
 A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll_equal to or under that ability score_, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
@@ -932,6 +932,8 @@ I dedicate as always this work to my wife Cristina. Thanks for giving up some of
 
 ## Changelog
 
+* v 0.5.1: Bestiary entries revision
+* * v 0.5: first Bestiary entries
 * v 0.4.2: added Credits and Acknowledgements
 * v 0.4.1: fixed the index
 * v 0.4: first public release, completed Magic with Goïteia and Incantations
