@@ -925,7 +925,7 @@ A huge thanks to:
 - Yochai Gal: for Cairn, the NSR Discord server, and the kind support.
 - Tom Van Winkle: for correcting all the Greek words and addressing me on magic in the ancient world.
 - Alessio Persichetti: for all the valuable advice and for tolerating my lucubrations.
-- Giovanni Tamba: for directing me on monster statics with his advice. 
+- Giovanni Tamba: for directing me on monster stats with his advice. 
 - The NSR and The Cauldron communities: for advice and support on this project.
 
 I dedicate as always this work to my wife Cristina. Thanks for giving up some of your time with me.
