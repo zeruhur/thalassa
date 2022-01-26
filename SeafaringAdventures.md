@@ -1,5 +1,6 @@
 ---
 nav_esclude: false
+nav_order: 3
 ---
 
 # Seafaring Adventures
