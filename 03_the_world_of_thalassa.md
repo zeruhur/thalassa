@@ -11,7 +11,7 @@ Earth is a plane in the shape of a shield surrounded by the Ocean River. Heavens
 
 Under Hades is the prison Tartarus a pit deep and dark, made fast by strong gates of brass and iron.
 
-![Hades Map](/img/hadess_map.png)
+![Hades Map](/img/hades_map.png)
 
 The sun is an archer god, carried in a fiery chariot up and down the steep path of the heavens. The regions to the extreme east and west, which are bathed in the nearby splendors of dawn and dusk, are lands of delight and plenty. The east is the favorite country of the Ethiopians, a land that even Zeus himself loves to visit, so much so that he is often found absent from Olympus when sought by supplicants.
 
