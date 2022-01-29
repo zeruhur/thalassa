@@ -20,20 +20,20 @@ The sun is an archer god, carried in a fiery chariot up and down the steep path 
 There are twelve members of the celestial council, six gods and as many goddesses. 
 
 The male deities are:
-* Zeus, the father of gods and men; 
-* Poseidon, ruler of the sea; 
-* Apollo, or Phoebus, the god of light, of music, and of prophecy; 
-* Ares, the god of war; 
-* Hephaestus, the deformed god of fire, and the forger of the thunderbolts of Zeus; 
-* Hermes, the winged herald of the celestials, the god of invention and commerce, himself a thief and patron of thieves.
+- Zeus, the father of gods and men; 
+- Poseidon, ruler of the sea; 
+- Apollo, or Phoebus, the god of light, of music, and of prophecy; 
+- Ares, the god of war; 
+- Hephaestus, the deformed god of fire, and the forger of the thunderbolts of Zeus; 
+- Hermes, the winged herald of the celestials, the god of invention and commerce, himself a thief and patron of thieves.
 
 The female divinities are:
-* Hera, the proud and jealous queen of Zeus; 
-* Athena, or Pallas (who was born all grown-up from the forehead of Zeus), the goddess of wisdom and the patroness of the domestic arts; 
-* Artemis, the goddess of hunting; 
-* Aphrodite, the goddess of love and beauty, born of the sea-foam; 
-* Hestia, the goddess of the hearth; 
-* Demeter, the earth-mother, the goddess of grains and harvests. 
+- Hera, the proud and jealous queen of Zeus; 
+- Athena, or Pallas (who was born all grown-up from the forehead of Zeus), the goddess of wisdom and the patroness of the domestic arts; 
+- Artemis, the goddess of hunting; 
+- Aphrodite, the goddess of love and beauty, born of the sea-foam; 
+- Hestia, the goddess of the hearth; 
+- Demeter, the earth-mother, the goddess of grains and harvests. 
 
 These great deities possess all the human virtues, and often their weaknesses. They yield to attacks of anger and jealousy. They surpass mortals more in power than in bodily size. They can make themselves visible or invisible to human eyes. Their food is ambrosia and nectar; their movements are as swift as light. They can suffer pain, but death can never come to them, for they are immortal. Their abode is Mount Olympus and the aerial regions above the earth.
 
@@ -41,15 +41,15 @@ These great deities possess all the human virtues, and often their weaknesses. T
 
 Besides the great gods and goddesses that constituted the Olympian council, there is an almost infinite number of other gods, celestial characters and monsters neither human nor divine.
 
-* Hades (Pluto) rules over the lower realms; 
-* Dionysus (Bacchus) is the god of wine; 
-* the goddess Nemesis is the punisher of crime, and particularly the queller of the proud and arrogant; 
-* Aeolus is the ruler of the winds, which he confined in a cave secured by mighty gates;
-* There are nine Muses, inspirers of art and song;
-* The Nymphs are beautiful maidens, who peopled the woods, the fields, the rivers, the lakes, and the ocean;
-* Three Fates allott life and death;
-* Three Furies (Eumenides or Erinnyes) avenge crime, especially murder and unnatural crimes;
-* The Gorgons are three sisters, with hair entwined with serpents. A single gaze upon them chills the beholder to stone. 
+- Hades (Pluto) rules over the lower realms; 
+- Dionysus (Bacchus) is the god of wine; 
+- the goddess Nemesis is the punisher of crime, and particularly the queller of the proud and arrogant; 
+- Aeolus is the ruler of the winds, which he confined in a cave secured by mighty gates;
+- There are nine Muses, inspirers of art and song;
+- The Nymphs are beautiful maidens, who peopled the woods, the fields, the rivers, the lakes, and the ocean;
+- Three Fates allott life and death;
+- Three Furies (Eumenides or Erinnyes) avenge crime, especially murder and unnatural crimes;
+- The Gorgons are three sisters, with hair entwined with serpents. A single gaze upon them chills the beholder to stone. 
   
 Besides these there are Scylla and Charybdis, sea-monsters that make perilous the passage of the Sicilian Straits, the Centaurs, the Cyclops, Cerberus, the watch-dog of Hades, and a thousand others.
 
