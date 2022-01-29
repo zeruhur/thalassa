@@ -212,7 +212,7 @@ Most items take up one slot, and small items can be bundled together. Slots are 
 
 **Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 STA.
 
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Hirelings** can also be paid to carry equipment.
+A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Companions** can also be paid to carry equipment.
 
 ### Starting Gear
 All PCs begin with:
@@ -553,8 +553,8 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the od
 **Morale**  
 Enemies must pass a THU save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's THU in place of their own. Lone foes must save when they're reduced to 0 STA. Morale does not affect PCs.
 
-**Hirelings**  
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 STA and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3ec per day, or a share of whatever treasure the party obtains.
+**Companions**  
+PCs can hire **companions** to aid them in their expeditions. To create a companion, roll 3d6 for each ability score, then give them 1d6 STA and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Companions cost between 1-3ec per day, or a share of whatever treasure the party obtains.
 
 **Wealth & Treasure**  
 The most common coin is the electrum (e), which is equal to 10 silver (s) and 100 copper (c).
@@ -740,9 +740,6 @@ If attacking with two weapons at the same time, roll both damage dice and keep t
 **Blast**  
 Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
 
-**Scars**  
-When damage to a PC reduces their STA to exactly 0, they are sometimes changed irrevocably. See the **Scars** for more.
-
 **Critical Damage**  
 Damage that reduces a target's STA below zero decreases a target's KRA by the amount remaining. They must then make a KRA save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
 
@@ -753,7 +750,7 @@ If a PC's KRA is reduced to 0, they die. If their TEK is reduced to 0, they are 
 Complete TEK and THU loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
 
 **Unconsciousness & Death**  
-When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+When a character dies, the player is free to create a new character or take control of a companion. They immediately join the party in order to reduce downtime.
 
 **Detachments**  
 Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 KRA, it is destroyed.
@@ -895,6 +892,9 @@ Filling all ten item slots reduces a PC to 0 STA. PCs cannot carry more than the
 A moment's rest and a swig of water will restore lost STA, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
 
 **MAGIC**
+In the world of Thálassa there are two kinds of magic: **Eukhé** is the invocation of divine powers and **Goïteia** is reciting incantations.
+
+Everyone may use magic and Thumos is the power source. Each time an incantation, invocation, curse or divination is casted, the magic-user consumes THU equal to 1d6 points. This determines the current level of THU until recovered (the same rule for STA in Healing do apply).
 
 **COMBAT**  
 The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's STA.
@@ -932,6 +932,7 @@ I dedicate as always this work to my wife Cristina. Thanks for giving up some of
 
 ## Changelog
 
+* v 0.5.2: Hireling is Companion now
 * v 0.5.1: Bestiary entries revision
 * * v 0.5: first Bestiary entries
 * v 0.4.2: added Credits and Acknowledgements
