@@ -519,11 +519,11 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 **Abilities**  
 Each of the three **abilities** are used in different circumstances (see **saves**, below).
 
-**Kratos (KRA**): Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
+- **Kratos (KRA)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
 
-**Kinesis (TEK):** Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
+- **Kinesis (TEK)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
 
-**Kanonas (THU)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, recite incantations, etc.
+- **Kanonas (THU)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, recite incantations, etc.
 
 **Saves**  
 A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll_equal to or under that ability score_, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
@@ -869,9 +869,9 @@ On their turn, a character may move up to 40ft and take up to one action. Action
 **Retreating** from a dangerous situation always requires a successful TEK save, as well as a safe destination to run to.
 
 **ABILITIES**  
-**KRA:** Brawn, prowess & resistance.   
-**TEK:** Dodging, sneaking & reflexes.   
-**THU:**  Persuasion, intimidation & magic.
+- **KRA:** Brawn, prowess & resistance.   
+- **TEK:** Dodging, sneaking & reflexes.   
+- **THU:**  Persuasion, intimidation & magic.
 
 **SAVES**  
 - Roll a d20 equal to or under an ability.
@@ -881,7 +881,7 @@ On their turn, a character may move up to 40ft and take up to one action. Action
 **STA** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
 
 **INVENTORY**  
-PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
+PCs have a total of inventory slots equal to their KRA. Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
 
 Filling all ten item slots reduces a PC to 0 STA. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
 
