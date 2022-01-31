@@ -2,7 +2,7 @@
 nav_order: 1
 ---
 
-# Thálassa System Reference Document (v0.5.1)
+# Thálassa System Reference Document (v1.0)
 
 *For Cristina and Elettra*
 
@@ -1015,7 +1015,8 @@ A huge thanks to:
 
 ## Changelog
 
-* v 0.6: Bestiary Complete
+* v 1.0: Beta stage ended
+* v 0.6: Bestiary is complete
 * v 0.5.2: Hireling is Companion now
 * v 0.5.1: Bestiary entries revision
 * v 0.5: first Bestiary entries
