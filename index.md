@@ -7,4 +7,4 @@ nav_exclude: true
 
 Thálassa is based on [*Cairn SRD*](https://cairnrpg.com/) and is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-You can find the SRD [here](/Thálassa.md)
+You can find the SRD [here](/01_thalassa.md)
