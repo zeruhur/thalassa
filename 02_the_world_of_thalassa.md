@@ -5,13 +5,22 @@ nav_order: 2
 
 # The World of Thálassa
 
+## Cosmos
+![Cosmos Map](/img/cosmos_map.png)
+
+## Ecumene
+![World Map](/img/world_map.png)
+
+## Hades
+![Hades Map](/img/hades_map.png)
+
 Earth is a plane in the shape of a shield surrounded by the Ocean River. Heavens are a solid vault which encapsulate the Earth, beneath which Hades extends, the realm of the souls of the dead. 
 
-![Cosmos Map](/img/cosmos_map.png)
+
 
 Under Hades is the prison Tartarus a pit deep and dark, made fast by strong gates of brass and iron.
 
-![Hades Map](/img/hades_map.png)
+
 
 The sun is an archer god, carried in a fiery chariot up and down the steep path of the heavens. The regions to the extreme east and west, which are bathed in the nearby splendors of dawn and dusk, are lands of delight and plenty. The east is the favorite country of the Ethiopians, a land that even Zeus himself loves to visit, so much so that he is often found absent from Olympus when sought by supplicants.
 
