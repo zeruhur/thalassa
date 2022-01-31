@@ -4,6 +4,8 @@ nav_order: 1
 
 # Thálassa System Reference Document (v0.5.1)
 
+*For Cristina and Elettra*
+
 **Thálassa** is based on [*Cairn SRD*](https://cairnrpg.com/) and is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Thálassa is an adventure game for one facilitator (the odigós) and at least one other player. Players act as fearless explorers of the Mediterranean of the Mythical Age, studded with mysterious islands, thick forests, legendary creatures, labyrinths and dangers.
@@ -1010,8 +1012,6 @@ A huge thanks to:
 - Alessio Persichetti: for all the valuable advice and for tolerating my lucubrations.
 - Giovanni Tamba: for directing me on monster stats with his advice. 
 - The NSR and The Cauldron communities: for advice and support on this project.
-
-I dedicate as always this work to my wife Cristina. Thanks for giving up some of your time with me.
 
 ## Changelog
 
