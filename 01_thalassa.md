@@ -190,8 +190,8 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ## Character Creation
 
-**Name, Origin & Traits**  
-First, choose or roll a **name** for your character from the [**Background**](#background-d20) tables, then their **profession**, which informs their knowledge and potential skills, and their **origin**, indicating where they come from.
+### Name, Origin & Traits
+First, choose or roll a **name** for your character from the [**Background**](#background-d20) tables, and their **origin**, indicating where they come from.
 
 Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
 
@@ -199,10 +199,14 @@ Finally, roll for their **age** (2d20+10).
 
 ### Ability Scores  
 Player Characters (PCs) have just three attributes:  
-***kratos* (KRA)** (strength), ***tekhne*  (TEK)** (nimbleness), and ***thumos* (THU)** (control). When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+- ***kratos* (KRA)** (strength)
+- ***tekhne*  (TEK)** (nimbleness)
+- ***thumos* (THU)** (control)
+
+When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
 
 **Example:**   
-Ines rolls for her character's **KRA**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **TEK** and a **13** for **THU**. She decides to swap the **12** and the **9**, for a character with **9 KRA**, **12 TEK** and **13** **THU**.
+*Ines rolls for her character's **KRA**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **TEK** and a **13** for **THU**. She decides to swap the **12** and the **9**, for a character with **9 KRA**, **12 TEK** and **13** **THU**.*
 
 ### Stamina
 Roll 1d6 to determine your PC's starting **Stamina** (STA), which reflects their ability to avoid damage in combat. STA does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's STA exactly to 0, the player must roll on the **Scars** table.
@@ -263,17 +267,6 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 | 3 | Diactorides | 8  | Hagias     | 13 | Phaenippos | 18 | Teukros    |
 | 4 | Eumaeus     | 9  | Melanippos | 14 | Philokles  | 19 | Thaumastus |
 | 5 | Eutuches    | 10 | Menandros  | 15 | Priam      | 20 | Thettalos  |
-
-
-#### Profession
-
-|   |            |    |             |    |          |    |          |
-|---|------------|----|-------------|----|----------|----|----------|
-| 1 | Actor      | 6  | Lyrist      | 11 | Poet     | 16 | Sorcerer |
-| 2 | Barber     | 7  | Mariner     | 12 | Priest   | 17 | Spinner  |
-| 3 | Blacksmith | 8  | Oracle      | 13 | Sculptor | 18 | Tailor   |
-| 4 | Farmer     | 9  | Philosopher | 14 | Shepherd | 19 | Trader   |
-| 5 | Magistrate | 10 | Physician   | 15 | Soldier  | 20 | Weaver   |
 
 
 #### Origin
@@ -523,14 +516,14 @@ Each of the three **abilities** are used in different circumstances (see **saves
 
 - **Kratos (KRA)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
 
-- **Kinesis (TEK)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
+- **Tekhne (TEK)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
 
-- **Kanonas (THU)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, recite incantations, etc.
+- **Thumos (THU)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, recite incantations, etc.
 
 **Saves**  
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll_equal to or under that ability score_, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll *equal to or under that ability score*, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
 
-**Example:** _Althea encounters a group of wild harpies standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 TEK makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
+**Example:** *Althea encounters a group of wild harpies standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 TEK makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!*
 
 **Deprivation & Fatigue**  
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover STA or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
@@ -714,25 +707,25 @@ Some examples of function are:
 The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
 
 **Actions**  
-On their turn, a character may move up to 40ft and take up to one action. This may be _casting an incantation, attacking, making a second move, or some other reasonable action.
+On their turn, a character may move up to 40ft and take up to one action. This may be casting an incantation, attacking, making a second move, or some other reasonable action.
 
 Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the odigós calls for a save for appropriate players or NPCs. All actions, attacks, and movements take place simultaneously.
 
 **Turns**  
 The odigós will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a TEK save to act before their opponents.
 
-**Example:** _Althea has accidentally stumbled onto the stomping grounds of a massive Cyclop. In order to make a move before the Cyclop, she makes a TEK save. She fails, and the Cyclop gets to attack first._
+**Example:** *Althea has accidentally stumbled onto the stomping grounds of a massive Cyclop. In order to make a move before the Cyclop, she makes a TEK save. She fails, and the Cyclop gets to attack first.*
 
 **Attacking & Damage**  
 The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's STA. Unarmed attacks always do 1d4 damage.
 
-**Example:** _The Cyclop roars, swinging its club at Althea, who has 5 STA. The club does 1d10 damage and the odigós rolls a 4. They subtract 1 to account for Althea's leather armor, leaving Althea with 2 STA remaining_.
+**Example:** *The Cyclop roars, swinging its club at Althea, who has 5 STA. The club does 1d10 damage and the odigós rolls a 4. They subtract 1 to account for Althea's leather armor, leaving Althea with 2 STA remaining*.
 
 **Multiple Attackers**  
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
 
 **Attack Modifiers**  
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage_regardless_of the attacks damage die.
+If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage *regardless* of the attacks damage die.
 
 If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced** , allowing the attacker to roll 1d12 damage instead of their normal die.
 
@@ -1001,7 +994,7 @@ Having KRA 0 means **death;** having TEK 0 is paralysis; having THU 0 is deliriu
 
 [back to index](#index)
 
-## Credits and Acknowledgements
+## Credits
 
 *Thálassa* is based on the Cairn SRD by Yochai Gal (release under CC BY-SA 4.0 license) which derived from Weird North by Jim Parkin, Into the Odd by Chris McDowall, and Knave by Ben Milton.
 
@@ -1015,14 +1008,13 @@ A huge thanks to:
 
 ## Changelog
 
-* v 1.0: Beta stage ended
-* v 0.6: Bestiary is complete
-* v 0.5.2: Hireling is Companion now
-* v 0.5.1: Bestiary entries revision
-* v 0.5: first Bestiary entries
-* v 0.4.2: added Credits and Acknowledgements
-* v 0.4.1: fixed the index
-* v 0.4: first public release, completed Magic with Goïteia and Incantations
-* v 0.3: added Principles of the World, completed backgrounds, change magic terminology, completed Eukhé
-* v 0.2: drafted Magic, completed equipment, changed attributes terminology, added Gifts
-* v 0.1: forked Cairn, modified encumbrance rules,  replaced Treasure with Prize
+-   v 1.0: Final version
+-   v 0.6: Bestiary is complete
+-   v 0.5.1: Bestiary entries revision
+-   v 0.5: first Bestiary entries
+-   v 0.4.2: Credits added
+-   v 0.4.1: fixed index
+-   v 0.4: first public release, completed Magic with Goïteia and Incantations
+-   v 0.3: Principles of the World added, backgrounds completed, magic terminology changed , Eukhé completed
+-   v 0.2: Magic drafted, equipment completed, attributes terminology changed, Gifts added
+-   v 0.1: Cairn forked, encumbrance rules modified, replaced Treasure with Prize
