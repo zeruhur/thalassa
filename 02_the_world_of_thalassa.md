@@ -36,7 +36,7 @@ The male deities are:
 - Hephaestus, the deformed god of fire, and the forger of the thunderbolts of Zeus; 
 - Hermes, the winged herald of the celestials, the god of invention and commerce, himself a thief and patron of thieves.
 
-The female divinities are:
+The female deities are:
 - Hera, the proud and jealous queen of Zeus; 
 - Athena, or Pallas (who was born all grown-up from the forehead of Zeus), the goddess of wisdom and the patroness of the domestic arts; 
 - Artemis, the goddess of hunting; 

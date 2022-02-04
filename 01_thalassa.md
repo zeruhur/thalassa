@@ -29,7 +29,7 @@ Thálassa is an adventure game for one facilitator (the odigós) and at least on
 **Thálassa** was written with the following design philosophies in mind:
 
 ### Neutrality  
-The odigós's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
+The odigós' role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
 
 ### Classless  
 A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences defines their specialty.
@@ -120,7 +120,7 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ### Exploration
 - Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the odigós's description without suspicion, but don't shy away from seeking more information.
+- Take the odigós' description without suspicion, but don't shy away from seeking more information.
 - There is no single correct way forward.
 
 ### Talking
@@ -176,7 +176,7 @@ Players trust one another to engage with the shared setting, character goals, an
 - In Egypt, west of Lybia, the high priests practice *heka* (magic) that draws on primordial power through rituals and incantations.
 - Importing some incantations, which are passed down without fully understanding their function and power, some practice *goïteia*, a low and limited form of magic that has lesser effects than either eukhé or heka. Practitioners of goïteia are frowned upon and considered by most to be charlatans.
 
-### Labyriths
+### Labyrinths
 - Around the vast Sea on mysterious islands or impenetrable forests are located labyrinths.
 - There are different types of labyrinths. Some are physically mazes built to imprison and protect. Others are networks of caves or palaces with complex geometry.
 - Those who face the dangers of the labyrinths will be rewarded with Prizes and other riches.
@@ -478,7 +478,7 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 | Kopis (d6  damage)                  | 5  |
 | Doru, Xiphos (d8 damage)            | 10 |
 | Akontia, Xyston (d10 damage, bulky) | 20 |
-| Sfendonai                           | 5  |
+| Sfendonai (d4 damage)               | 5  |
 | Toxa (d6  damage, bulky)            | 20 |
 
 
@@ -782,15 +782,15 @@ When an attack reduces a PC's STA to exactly 0, they are uniquely impacted. Look
 
 ### Cetus
 10 STA, 3 Armor, 18 KRA, 4 TEK, 18 THU, spikey ail (d20, automatic fail against Critical Damage)
-- Monstrous colossal sea-dragon, the size of a ship
-- Attacks ships by smashing them with its fan-like tail
-- Its spines, a cubit thick, can pierce a man (instant critical)
+- Monstrous colossal sea-dragon, the size of a ship.
+- Attacks ships by smashing them with its fan-like tail.
+- Its spines, a cubit thick, can pierce a man (instant critical).
 
 ### Chimera
 7 STA, 18 KRA, 4 TEK, claws (d6), 2x bite (d8), fire-breath (d12)
-- Lion's body, three-heads: of a lion, goat on its back and serpent as tail
-- Uses claws ad bites as natural weapons
-- Fire-breathing creature, it can melt metal. Invulnerable to external attacks
+- Lion's body, three-heads: of a lion, goat on its back and serpent as tail.
+- Uses claws and bites as natural weapons.
+- Fire-breathing creature, it can melt metal. Invulnerable to external attacks.
 
 ### Centaur
 6 STA, 1 Armor, 15 TEK, rocks and branches (d6)
@@ -800,15 +800,15 @@ When an attack reduces a PC's STA to exactly 0, they are uniquely impacted. Look
 
 ### Cerberus
 7 STA, 14 KRA, 12 THU, claws (d6), poisonous bites (d8)
-- The gigantic, three-headed hound of Hades which guards the gates of the underworld
-- Serpent's tail, mane of snakes, and a lion's claws. It uses them as natural weapons
+- The gigantic, three-headed hound of Hades which guards the gates of the underworld.
+- Serpent's tail, mane of snakes, and a lion's claws. It uses them as natural weapons.
 - Save vs KRA if the PC is bitten by a snake of the mane. Failure is death.
 
 ### Dragon of Colchis
 10 STA, 2 Armor, bite (d8), tailblow (d10) 
-- Giant, watchful serpent which guards the Golden Fleece in Colchis
-- Each turn it attacks with bites and a tailblow
-- Its teeth have magical prorties: if seeded they spring Spartoi
+- Giant, watchful serpent which guards the Golden Fleece in Colchis.
+- Each turn it attacks with bites and a tailblow.
+- Its teeth have magical prorties: if seeded they spring Spartoi.
 
 ### Gígas
 10 STA, 18 KRA, 8 TEK, 12 THU, spear (d8) 
@@ -819,7 +819,7 @@ When an attack reduces a PC's STA to exactly 0, they are uniquely impacted. Look
 ### Gorgon
 3 STA, 14 THU, petrifying gaze
 - Winged women with broad, round heads, serpentine locks of hair, large staring eyes, wide mouths, and lolling tongues.
-- They are three sisters named Medusa, Sthenno and Euryale. Only the former is mortal
+- They are three sisters named Medusa, Sthenno and Euryale. Only the former is mortal.
 - Their gaze petrifies if sustained directly. Save vs TEK to avoid.
 
 ### Gryps
@@ -835,14 +835,14 @@ When an attack reduces a PC's STA to exactly 0, they are uniquely impacted. Look
 - They are hidden in sudden, sharp gusts of wind.
 
 ### Hesperian Dragon
-9 STA, 15 KRA, 18 TEK, 15 THU, burst of bites (d10, automatic fail on saves against Critical Damage)
-- Hundred-headed serpent, named Ladon, guarding the golden apples of the Hesperides
-- Ladon attacks only if provoked or if stealing apples is attempted
+9 STA, 15 KRA, 18 TEK, 15 THU, burst of bites (d10, automatic fail on saves against Critical Damage).
+- Hundred-headed serpent, named Ladon, guarding the golden apples of the Hesperides.
+- Ladon attacks only if provoked or if stealing apples is attempted.
 - Critical Damage: the target loses a limb, which fuses with the dragon and becomes an additional head.
 
 ### Hippokampos
 3 STA, 12 TEK, hoof (d6)
-- Fish-tailed horses of the sea, adult-form of the "sea-horse"
+- Fish-tailed horses of the sea, adult-form of the "sea-horse".
 - Mounts of Nereid nymphs. Poseidon's chariot is drawn by them.
 - Very nimble in water and hard to hit while swimming.
 
@@ -854,9 +854,9 @@ When an attack reduces a PC's STA to exactly 0, they are uniquely impacted. Look
 
 ### Lernaean Hydra
 10 STA, 2 Armor, 1 bite x head  (or Blast Damage) (d8), Tailblow (d10)
-- Gigantic, nine-headed water-serpent, which haunts the swamps of Lerna
-- If 3 or more heads survives it attacks with a single d8 Blast Damage
-- For every decapitated head, two grow if not cauterized
+- Gigantic, nine-headed water-serpent, which haunts the swamps of Lerna.
+- If 3 or more heads survives it attacks with a single d8 Blast Damage.
+- For every decapitated head, two grow if not cauterized.
 
 ### Minôtauros
 8 STA, 14 KRA, 12 TEK, 12 THU, horns (d8)
@@ -866,14 +866,14 @@ When an attack reduces a PC's STA to exactly 0, they are uniquely impacted. Look
 
 ### Pêgasos
 4 STA, 14 TEK, hoof (d6)
-- Immortal, winged horse
-- Makes the rider fast and uncatchable
+- Immortal, winged horse.
+- Makes the rider fast and uncatchable.
 - Impossible to engage in melee if in air.
 
 ### Python
 10 STA, 18 TEK, 8 THU, poisonous bites (d8)
-- Monstrous dragon-serpent set by Gaia to guard the sacred oracle of Delphi
-- Immune to melee attacks
+- Monstrous dragon-serpent set by Gaia to guard the sacred oracle of Delphi.
+- Immune to melee attacks.
 - Poison will cause excruciating pain, as live fire through the veins.
 
 ### Satyros
@@ -884,13 +884,13 @@ When an attack reduces a PC's STA to exactly 0, they are uniquely impacted. Look
 
 ### Seirên
 4 STA, 18 THU, bewitching song (see below)
-- Monstrous sea-nymphs with lower body of birds and the upper bodies of women
+- Monstrous sea-nymphs with lower body of birds and the upper bodies of women.
 - They lure sailors to their death with a bewitching song.
-- The lyre song can stop them
+- The lyre song can stop them.
 
 ### Skylla
 10 STA, 2 Armor, 14 KRA, 8 TEK, 12 THU, jaws (d10)
-- Sea-monster who haunts the rocks of a narrow strait opposite the whirlpool of Kharybdis
+- Sea-monster who haunts the rocks of a narrow strait opposite the whirlpool of Kharybdis.
 - She has twelve dangling feet, six long necks and grisly heads lined with a triple row of sharp teeth.
 - Ships who sail too close to her rocks will lose men to her ravenous, darting heads. 
 
@@ -902,18 +902,20 @@ When an attack reduces a PC's STA to exactly 0, they are uniquely impacted. Look
 
 ### Tritôn
 3 STA, 12 TEK
-- Fish-tailed man, sea equivalent of Satyros
+- Fish-tailed man, sea equivalent of Satyros.
 - Plurification of the god Triton.
-- Generally peaceful, invulnerable in water
+- Generally peaceful, invulnerable in water.
+
+**Note**: where it is not specified the attribute is equal to 10
 
 ### Creating Monsters
 Use the following template to model any more sophisticated Monster or NPC:
 
 **Name**
 X STA, X Armor, X KRA, X TEK, X THU, Weapon (dX, special items, qualities)
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+- Engaging descriptor of appearance or demeanor.
+- Quirk, tactic, or peculiarity making this NPC unique.
+- Special effect or critical damage consequence.
 
 **General Principles**  
 Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.  
