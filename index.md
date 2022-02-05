@@ -14,8 +14,6 @@ Thálassa is based on [*Cairn SRD*](https://cairnrpg.com/) and is licensed under
 
 The full text of the rules and maps are available under a Creative Commons Attribution Share-Alike 4.0 license on this site and in the GitHub repository. 
 
-You can find the SRD [here](/01_thalassa.md)
-
 ## Why I designed this
 
 In Italy where I was born and still live, classical myths are part of any student’s education. Since middle school they have been a passion that have accompanied me through the decades and that I have always wanted to see transposed into RPGs.
