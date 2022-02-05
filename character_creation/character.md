@@ -3,7 +3,6 @@ layout: default
 title: Character
 nav_order: 1
 parent: Character Creation
-has_children: true
 ---
 # Character Creation
 

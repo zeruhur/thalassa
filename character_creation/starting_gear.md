@@ -3,7 +3,6 @@ layout: default
 title: Starting Gear
 nav_order: 4
 parent: Character Creation
-has_children: true
 ---
 # Starting Gear
 

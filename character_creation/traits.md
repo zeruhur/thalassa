@@ -3,7 +3,6 @@ layout: default
 title: Character Traits
 nav_order: 3
 parent: Character Creation
-has_children: true
 ---
 # Character Traits (d10)
 

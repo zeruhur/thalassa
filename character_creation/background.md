@@ -3,7 +3,6 @@ layout: default
 title: Background
 nav_order: 2
 parent: Character Creation
-has_children: true
 ---
 # Background (d20)
 
