@@ -4,6 +4,15 @@ remote_theme: pmarsceill/just-the-docs
 url: https://zeruhur.space
 logo: "/img/logo.png"
 color_scheme: light
+aux_links:
+  "Thálassa on GitHub":
+    - "//github.com/zeruhur/thalassa"
+  "PDF":
+    - "//zeruhur.itch.io/thalassa"
+  "Lulu":
+    - "//www.lulu.com/en/en/shop/roberto-bisceglie/th%C3%A1lassa/paperback/product-8gzn8n.html"
+#  "Amazon":  
+#    "//www.amazon.it/dp/B09HFXXJMC"
 plugins:
   - jekyll-redirect-from
 include:
