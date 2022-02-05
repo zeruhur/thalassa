@@ -1,5 +1,5 @@
 ---
-nav_esclude:true
+nav_esclude: true
 ---
 
 # Thálassa System Reference Document (v1.0)
