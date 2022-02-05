@@ -1,6 +1,8 @@
 ---
-nav_exclude: false
-nav_order: 7
+layout: default
+title: Appendix Ω
+nav_order: 17
+parent: Core Game
 ---
 
 # Appendix Ω

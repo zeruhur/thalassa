@@ -1,6 +1,8 @@
 ---
-nav_exclude: false
-nav_order: 4
+layout: default
+title: The Quest
+nav_order: 13
+parent: Core Game
 ---
 
 # The Quest

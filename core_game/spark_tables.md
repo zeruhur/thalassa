@@ -1,6 +1,8 @@
 ---
-nav_exclude: false
-nav_order: 6
+layout: default
+title: Spark Tables
+nav_order: 15
+parent: Core Game
 ---
 
 # Spark Tables

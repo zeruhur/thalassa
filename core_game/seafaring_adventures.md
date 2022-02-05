@@ -1,6 +1,8 @@
 ---
-nav_esclude: false
-nav_order: 3
+layout: default
+title: Seafaring Adventures
+nav_order: 12
+parent: Core Game
 ---
 
 # Seafaring Adventures

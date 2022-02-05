@@ -1,6 +1,8 @@
 ---
-nav_esclude: true 
-nav_order: 2
+layout: default
+title: The World of Thálassa
+nav_order: 11
+parent: Core Game
 ---
 
 # The World of Thálassa

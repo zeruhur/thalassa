@@ -1,8 +1,9 @@
 ---
-nav_exclude: false
-nav_order: 5
+layout: default
+title: Location Names
+nav_order: 14
+parent: Core Game
 ---
-
 # Location Names
 
 ## Real Locations

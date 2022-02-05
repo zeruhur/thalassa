@@ -1,5 +1,5 @@
 ---
-nav_exclude: true
+nav_order: 1
 ---
 
 # Welcome to **Thálassa** official website!
