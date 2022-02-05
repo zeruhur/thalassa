@@ -2,7 +2,7 @@
 layout: default
 title: Principles for odigoí
 nav_order: 2
-parent: Core Game
+#parent: Core Game
 ---
 # Principles for odigoí
 

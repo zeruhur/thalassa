@@ -2,7 +2,7 @@
 layout: default
 title: Bestiary
 nav_order: 10
-parent: Core Game
+#parent: Core Game
 ---
 # Bestiary
 

@@ -2,7 +2,7 @@
 layout: default
 title: The World of Thálassa
 nav_order: 11
-parent: Core Game
+#parent: Core Game
 ---
 
 # The World of Thálassa

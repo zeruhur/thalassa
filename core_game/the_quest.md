@@ -2,7 +2,7 @@
 layout: default
 title: The Quest
 nav_order: 13
-parent: Core Game
+#parent: Core Game
 ---
 
 # The Quest

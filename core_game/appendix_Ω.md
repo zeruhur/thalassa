@@ -2,7 +2,7 @@
 layout: default
 title: Appendix Ω
 nav_order: 17
-parent: Core Game
+#parent: Core Game
 ---
 
 # Appendix Ω

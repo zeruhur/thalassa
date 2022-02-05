@@ -2,7 +2,7 @@
 layout: default
 title: Spark Tables
 nav_order: 15
-parent: Core Game
+#parent: Core Game
 ---
 
 # Spark Tables

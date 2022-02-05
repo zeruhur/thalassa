@@ -2,7 +2,7 @@
 layout: default
 title: Combat
 nav_order: 9
-parent: Core Game
+#parent: Core Game
 ---
 # Combat
 

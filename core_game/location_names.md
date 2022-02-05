@@ -2,7 +2,7 @@
 layout: default
 title: Location Names
 nav_order: 14
-parent: Core Game
+#parent: Core Game
 ---
 # Location Names
 

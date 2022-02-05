@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Equipment List
+title: Rules
 nav_order: 7
-parent: Core Game
+#parent: Core Game
 ---
 # Rules
-**Abilities**  
+### Abilities
 Each of the three **abilities** are used in different circumstances (see **saves**, below).
 
 - **Kratos (KRA)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.

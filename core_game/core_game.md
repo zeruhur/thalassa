@@ -2,7 +2,8 @@
 layout: default
 title: Core Game
 nav_order: 2
-has_children: true
+has_children: false
+nav_exclude: true
 ---
 **Thálassa** is based on [*Cairn SRD*](https://cairnrpg.com/) and is
 licensed under [CC-BY-SA

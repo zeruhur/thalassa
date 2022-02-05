@@ -2,7 +2,7 @@
 layout: default
 title: Credits
 nav_order: 18
-parent: Core Game
+#parent: Core Game
 ---
 
 # Credits

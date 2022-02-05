@@ -2,7 +2,7 @@
 layout: default
 title: Rules Summary
 nav_order: 16
-parent: Core Game
+#parent: Core Game
 ---
 # Rules Summary
 

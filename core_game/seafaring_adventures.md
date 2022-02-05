@@ -2,7 +2,7 @@
 layout: default
 title: Seafaring Adventures
 nav_order: 12
-parent: Core Game
+#parent: Core Game
 ---
 
 # Seafaring Adventures

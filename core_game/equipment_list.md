@@ -2,7 +2,7 @@
 layout: default
 title: Equipment List
 nav_order: 6
-parent: Core Game
+#parent: Core Game
 ---
 # Equipment List (Prices in Electrum)  
 

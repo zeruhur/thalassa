@@ -2,7 +2,7 @@
 layout: default
 title: Magic
 nav_order: 8
-parent: Core Game
+#parent: Core Game
 ---
 
 # Magic
