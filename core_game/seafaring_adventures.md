@@ -16,7 +16,7 @@ Venturing out on a quest is a risky endeavor that involves facing unknown seas a
 ## Route for the Adventure
 Characters establish a route to their destination. 
 
-The odigós rolls 1d6 to determine the number of waypoints required. These may increase due to bad weather or unforeseen events (see below). The journey will last 1d10 per waypoint. Each night the crew must rest. If they are in open sea, shifts will be arranged.
+The odigós rolls 1d6 to determine the number of waypoints required. These may increase due to bad weather or unforeseen events (see below). The journey will last 1d10 days per waypoint. Each night the crew must rest. If they are in open sea, shifts will be arranged.
 
 Whenever there will be coast in sight (every 1d4 days between waypoints), the crew should land for repairs and look for food.
 
