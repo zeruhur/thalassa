@@ -1,34 +1,15 @@
 @font-face {
     font-family: 'Diogenes';
-    src: url("fonts/DIOGENES.ttf") format('truetype');
+    src: url(fonts/DIOGENES.ttf) format('truetype');
 }
 
 @font-face {
-    font-family: "Artemisia";
-    src: url("fonts/GFSArtemisia.ttf") format("truetype");
-    font-weight: normal;
-    font-style: normal;
+    font-family: 'Klavika';
+    src: url(fonts/GFSArtemisia.ttf) format('truetype') font-weight-normal,
+         url(fonts/GFSArtemisiaBold.ttf) format('truetype') font-weight-bold,
+         url(fonts/GFSArtemisiaIt.ttf) format('truetype') font-italic font-weight-normal,
+         url(fonts/GFSArtemisiaBoldIt.ttf) format('truetype') font-italic font-weight-bold;
   }
-@font-face {
-  font-family: "Artemisia";
-  src: url("fonts/GFSArtemisiaBold.ttf") format("truetype");
-  font-weight: bold;
-  font-style: normal;
-}
-
-@font-face {
-    font-family: "Artemisia";
-    src: url("fonts/GFSArtemisiaIt.ttf") format("truetype");
-    font-weight: normal;
-    font-style: italic;
-  }
-
-@font-face {
-font-family: "Artemisia";
-src: url("fonts/GFSArtemisiaBoldIt.ttf") format("truetype");
-font-weight: bold;
-font-style: italic;
-}
 
 $custom-font-family: 'Artemisia', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
 $header-font-family: 'Diogenes', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",  Roboto, "Helvetica Neue", Arial, sans-serif !default;
