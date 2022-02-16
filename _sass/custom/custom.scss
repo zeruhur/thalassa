@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Diogenes';
+    src: url("fonts/DIOGENES.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: "Artemisia";
+    src: url("fonts/GFSArtemisia.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+  font-family: "Artemisia";
+  src: url("fonts/GFSArtemisiaBold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: "Artemisia";
+    src: url("fonts/GFSArtemisiaIt.otf") format("opentype");
+    font-weight: normal;
+    font-style: italic;
+  }
+
+@font-face {
+font-family: "Artemisia";
+src: url("fonts/GFSArtemisiaBoldIt.otf") format("opentype");
+font-weight: bold;
+font-style: italic;
+}
+
+$custom-font-family: 'Artemisia', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$header-font-family: 'Diogenes', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",  Roboto, "Helvetica Neue", Arial, sans-serif !default;
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $header-font-family !important;
+}
+
+body {
+    font-family: $custom-font-family;
+  }
