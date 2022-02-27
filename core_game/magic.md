@@ -31,7 +31,7 @@ A time of recollection and concentration is required to appeal to the deity, equ
 
 ## Goïteia
 
-Goïteia is the lowest form of magic, including astrology, alchemy and other forms of esoteric knowledge and not well regarded in Ellas. It originated in Egypt where the high priests drew on primal power with *heka*. Over the centuries they have written precise forms, in the form of incantations, to evoke this form of energy. This knowledge was taken away and vulgarized by some outcast priests and then exported to foreign peoples. The incantations thus handed down are limited in number and power and their effects constrained by the precise wording. 
+Goïteia is the lowest form of magic, including astrology, alchemy and other forms of esoteric knowledge and not well regarded in Hellas. It originated in Egypt where the high priests drew on primal power with *heka*. Over the centuries they have written precise forms, in the form of incantations, to evoke this form of energy. This knowledge was taken away and vulgarized by some outcast priests and then exported to foreign peoples. The incantations thus handed down are limited in number and power and their effects constrained by the precise wording. 
 
 **A scroll** contain a single incantations and take up one slot. They cannot be created nor transcribed, but can be recovered from places like labyrinths. If the PC is deprived or in danger, the odigós may require a PC to make a save against THU to avoid any ill-effects from reciting the incantation. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
 
