@@ -1,15 +1,6 @@
-@font-face {
-    font-family: 'Diogenes';
-    src: url(fonts/DIOGENES.ttf) format('truetype');
-}
+@import url('https://db.onlinewebfonts.com/c/22c7df073833fef0e1508a36cf0d0f9f?family=Diogenes');
 
-@font-face {
-    font-family: 'Artemisia';
-    src: url(fonts/GFSArtemisia.ttf) format('truetype') font-weight-normal,
-         url(fonts/GFSArtemisiaBold.ttf) format('truetype') font-weight-bold,
-         url(fonts/GFSArtemisiaIt.ttf) format('truetype') font-italic font-weight-normal,
-         url(fonts/GFSArtemisiaBoldIt.ttf) format('truetype') font-italic font-weight-bold;
-  }
+@import url('http://fonts.cdnfonts.com/css/gfs-artemisia');
 
 @page {
   size: 5.5in 8.5in; /* Change from the default size of A4 */
@@ -20,9 +11,9 @@ table, tr, td, th, tbody, thead, tfoot {
     page-break-inside: avoid !important;
 }
 
-#name-d20, #alien-names, #origins--traits-d20, #starting-gear-d20, #equipment,#rules-summary  {
+/* #name-d20, #alien-names, #origins--traits-d20, #starting-gear-d20, #equipment,#rules-summary  {
     page-break-before: always;
-}
+} */
 
 html {
   font-size: 8pt;
@@ -30,7 +21,7 @@ html {
 
 body {
   margin: 0;
-  font-family: 'Artemisia';
+  font-family: 'GFS Artemisia';
   columns: 2;
 }
 
@@ -49,8 +40,8 @@ table {
   display: block;
   width: 100%;
   overflow: auto;
-  word-break: normal;
-  word-break: keep-all;
+  /* word-break: normal;
+  word-break: keep-all; */
   border-collapse: collapse;
   border-spacing: 0;
 }
@@ -59,7 +50,7 @@ table th {
 }
 
 th em {
-    font-family: 'Artemisia';
+    font-family: 'GFS Artemisia';
 }
 p, blockquote, ul, ol, dl, table, pre {
   margin-top: 0;

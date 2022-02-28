@@ -1,1 +1,1 @@
-pandoc -f gfm -t html -o pdf/thalassa.pdf -s $(cat includes.txt) --pdf-engine=weasyprint --css="css/thalassa.css"
+pandoc -f gfm -t html -o pdf/thalassa.pdf -s cmd/*.md --pdf-engine=weasyprint --css="css/thalassa.css"
