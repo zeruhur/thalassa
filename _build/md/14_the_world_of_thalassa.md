@@ -1,13 +1,13 @@
 # The World of Thálassa
 
 ## Cosmos
-![Cosmos Map](/img/cosmos_map.png)
+![Cosmos Map](img/cosmos_map.png)
 
 ## Ecumene
-![World Map](/img/world_map.png)
+![World Map](img/world_map.png)
 
 ## Hades
-![Hades Map](/img/hades_map.png)
+![Hades Map](img/hades_map.png)
 
 Earth is a plane in the shape of a shield surrounded by the Ocean River. Heavens are a solid vault which encapsulate the Earth, beneath which Hades extends, the realm of the souls of the dead. 
 
