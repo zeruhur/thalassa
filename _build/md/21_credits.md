@@ -12,7 +12,8 @@ A huge thanks to:
 
 # Changelog
 
--   v 1.1: Minor Fixes
+-   v 1.2: Editorial corrections
+-   v 1.1: Minor fixes
 -   v 1.0: Final version
 -   v 0.6: Bestiary is complete
 -   v 0.5.1: Bestiary entries revision

@@ -1,5 +1,3 @@
-# Thálassa System Reference Document (v1.0)
-
 *For Cristina and Elettra*
 
 **Thálassa** is based on [*Cairn SRD*](https://cairnrpg.com/) and is

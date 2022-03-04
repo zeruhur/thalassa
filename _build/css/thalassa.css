@@ -11,9 +11,11 @@ table, tr, td, th, tbody, thead, tfoot {
     page-break-inside: avoid !important;
 }
 
-/* #name-d20, #alien-names, #origins--traits-d20, #starting-gear-d20, #equipment,#rules-summary  {
+#principles-for-odigoí, #principles-for-players, #principles-of-the-world, #character-creation, 
+#starting-gear-d20, #rules, #reactions, #magic, #gifts, #combat, #scars, 
+#bestiary, #the-world-of-thálassa, #seafaring-adventures, #the-quest, #location-names, #spark-tables, #rules-summary, #appendix-ω, #credits  {
     page-break-before: always;
-} */
+}
 
 html {
   font-size: 8pt;
@@ -39,15 +41,15 @@ table {
   display: block;
   width: 100%;
   overflow: auto;
-  /* word-break: normal;
-  word-break: keep-all; */
   border-collapse: collapse;
   border-spacing: 0;
 }
 table th {
   font-weight: bold;
 }
-
+table th, table td {
+  padding: 3px 5px;
+}
 th em {
     font-family: 'GFS Artemisia';
 }
@@ -55,7 +57,18 @@ p, blockquote, ul, ol, dl, table, pre {
   margin-top: 0;
   margin-bottom: 16px;
 }
+li {
+  line-height: 1.15em;
+}
 
 a, a:hover {
     color: #000;
+}
+
+img { 
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto; 
 }
