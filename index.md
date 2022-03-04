@@ -13,7 +13,7 @@ Players act as fearless explorers of the Mediterranean of the Mythical Age, stud
 
 Thálassa is based on [*Cairn SRD*](https://cairnrpg.com/) and is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-The full text of the rules and maps are available under a Creative Commons Attribution Share-Alike 4.0 license on this site and in the GitHub repository. 
+The full text of the rules and maps are available under a Creative Commons Attribution Share-Alike 4.0 license on this site and in the [GitHub repository](https://github.com/zeruhur/thalassa).
 
 ## Why I designed this
 
@@ -27,7 +27,6 @@ It would not have been possible to write a ruleset like this without the availab
 
 You can find Thálassa:
 - [POD on Lulu](https://www.lulu.com/en/en/shop/roberto-bisceglie/th%C3%A1lassa/paperback/product-8gzn8n.html?page=1&pageSize=4).
-- [POD on Amazon](). 
 - On the [itch.io page](https://zeruhur.itch.io/thalassa) you may find:
-  - The editable ODT and markdown files, along with the epub file and PDF without illustrations available for free download in the demo section
-  - The official PDF enriched with layout and illustrations reworked in vector format from the original ancient Greek pottery is sold for a small fee
+  - The editable ODT and markdown files, along with the epub file and PDF without illustrations available for free download in the demo section.
+  - The official PDF enriched with layout and illustrations reworked in vector format from the original ancient Greek pottery is sold for a small fee.
