@@ -1,6 +1,30 @@
 @import url('https://db.onlinewebfonts.com/c/22c7df073833fef0e1508a36cf0d0f9f?family=Diogenes');
 
-@import url('http://fonts.cdnfonts.com/css/gfs-artemisia');
+@font-face {
+    font-family: 'GFS Artemisia';
+    font-style: normal;
+    font-weight: 400;
+    src: local('GFS Artemisia'), url('fonts/GFSArtemisia.woff') format('woff');
+}
+@font-face {
+    font-family: 'GFS Artemisia';
+    font-style: italic;
+    font-weight: 400;
+    src: local('GFS Artemisia'), url('fonts/GFSArtemisiaIt.woff') format('woff');
+}
+@font-face {
+    font-family: 'GFS Artemisia';
+    font-style: normal;
+    font-weight: 700;
+    src: local('GFS Artemisia'), url('fonts/GFSArtemisiaBold.woff') format('woff');
+}
+@font-face {
+    font-family: 'GFS Artemisia';
+    font-style: italic;
+    font-weight: 700;
+    src: local('GFS Artemisia'), url('fonts/GFSArtemisiaBoldIt.woff') format('woff');
+}
+
 
 $custom-font-family: 'GFS Artemisia', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
 $header-font-family: 'Diogenes', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",  Roboto, "Helvetica Neue", Arial, sans-serif !default;
