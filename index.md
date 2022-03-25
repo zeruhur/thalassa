@@ -26,7 +26,8 @@ It would not have been possible to write a ruleset like this without the availab
 ## Links
 
 You can find Thálassa:
-- [POD on Lulu](https://www.lulu.com/en/en/shop/roberto-bisceglie/th%C3%A1lassa/paperback/product-8gzn8n.html?page=1&pageSize=4).
+- [Premium POD on Lulu](https://www.lulu.com/en/en/shop/roberto-bisceglie/th%C3%A1lassa/paperback/product-8gzn8n.html?page=1&pageSize=4).
+- [Standard POD on Amazon](https://www.amazon.com/dp/B09WH7R1JB).
 - On the [itch.io page](https://zeruhur.itch.io/thalassa) you may find:
   - The editable ODT and markdown files, along with the epub file and PDF without illustrations available for free download in the demo section.
   - The official PDF enriched with layout and illustrations reworked in vector format from the original ancient Greek pottery is sold for a small fee.
