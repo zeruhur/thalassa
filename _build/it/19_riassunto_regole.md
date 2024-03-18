@@ -3,7 +3,7 @@
 **AZIONI**  
 Nel proprio turno, un personaggio può spostarsi fino a 40 piedi e compiere fino a un'azione. Le azioni possono includere lanciare un incantesimo, attaccare, fare una seconda mossa o altre attività ragionevoli. Azioni, attacchi e movimenti avvengono simultaneamente. Ogni volta che l'ordine di turno è incerto, i PG dovrebbero effettuare un tiro salvezza su TEK per vedere se vanno prima dei loro nemici.
 
-**Ritirarsi**da una situazione pericolosa richiede sempre un tiro salvezza su TEK riuscito, oltre a una destinazione sicura verso cui correre.
+**Ritirarsi** da una situazione pericolosa richiede sempre un tiro salvezza su TEK riuscito, oltre a una destinazione sicura verso cui correre.
 
 **ABILITÀ**  
 - **KRA:**Muscoli, abilità e resistenza.
