@@ -18,7 +18,7 @@ plugins:
   - jekyll-redirect-from
 include:
   - js
-exclude: [_build, booklet, character_creator, CLAUDE.md]
+exclude: [_build, booklet, CLAUDE.md]
 
 # Back to top link
 back_to_top: true
