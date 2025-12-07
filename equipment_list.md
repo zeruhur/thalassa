@@ -4,4 +4,4 @@ title: Equipment List
 nav_order: 6
 #parent: Core Game
 ---
-{% include_relative _build/md/09_equipment_list.md %}
+{% include_relative _build/en/09_equipment_list.md %}

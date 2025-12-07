@@ -17,8 +17,8 @@ aux_links:
 plugins:
   - jekyll-redirect-from
 include:
-    -js
-exclude: [_build, booklet]
+  - js
+exclude: [_build, booklet, character_creator]
 
 # Back to top link
 back_to_top: true

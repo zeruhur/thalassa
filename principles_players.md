@@ -4,4 +4,4 @@ title: Principles for Players
 nav_order: 3
 #parent: Core Game
 ---
-{% include_relative _build/md/03_principles_players.md %}
+{% include_relative _build/en/03_principles_players.md %}
