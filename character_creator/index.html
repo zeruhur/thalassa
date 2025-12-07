@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thálassa Character Creator</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+</head>
+<body>
+    <header>
+        <h1>Thálassa Character Creator</h1>
+        <p class="subtitle">Mythical Age Adventure Game</p>
+        <div class="header-controls">
+            <button id="languageToggle" class="btn-secondary">🌐 <span id="langText">Italiano</span></button>
+            <button id="rollAllBtn" class="btn-primary">⚡ Roll Complete Character</button>
+        </div>
+    </header>
+
+    <main id="character-creator">
+        <!-- Name & Background Section -->
+        <section class="creation-section" id="name-section">
+            <h2>Name & Background</h2>
+            <div class="section-content">
+                <div class="form-group">
+                    <label>Gender:</label>
+                    <div class="radio-group">
+                        <label><input type="radio" name="gender" value="female" checked> Female</label>
+                        <label><input type="radio" name="gender" value="male"> Male</label>
+                    </div>
+                </div>
+
+                <div class="roll-group">
+                    <button class="btn-roll" onclick="rollName()">🎲 Roll Name</button>
+                    <div id="nameDisplay" class="result-display">
+                        <p><strong>Name:</strong> <span id="fullName">—</span></p>
+                        <p class="details"><span id="nameDetails"></span></p>
+                    </div>
+                </div>
+
+                <div class="roll-group">
+                    <button class="btn-roll" onclick="rollAge()">🎲 Roll Age</button>
+                    <div id="ageDisplay" class="result-display">
+                        <p><strong>Age:</strong> <span id="ageValue">—</span> <span id="ageDice" class="dice-detail"></span></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Character Traits Section -->
+        <section class="creation-section" id="traits-section">
+            <h2>Character Traits</h2>
+            <div class="section-content">
+                <button class="btn-roll" onclick="rollAllTraits()">🎲 Roll All Traits</button>
+
+                <div class="traits-grid">
+                    <div class="trait-item">
+                        <label>Physique:</label>
+                        <span id="trait-physique">—</span>
+                        <button class="btn-reroll" onclick="rerollTrait('physique')">↻</button>
+                    </div>
+                    <div class="trait-item">
+                        <label>Skin:</label>
+                        <span id="trait-skin">—</span>
+                        <button class="btn-reroll" onclick="rerollTrait('skin')">↻</button>
+                    </div>
+                    <div class="trait-item">
+                        <label>Hair:</label>
+                        <span id="trait-hair">—</span>
+                        <button class="btn-reroll" onclick="rerollTrait('hair')">↻</button>
+                    </div>
+                    <div class="trait-item">
+                        <label>Face:</label>
+                        <span id="trait-face">—</span>
+                        <button class="btn-reroll" onclick="rerollTrait('face')">↻</button>
+                    </div>
+                    <div class="trait-item">
+                        <label>Speech:</label>
+                        <span id="trait-speech">—</span>
+                        <button class="btn-reroll" onclick="rerollTrait('speech')">↻</button>
+                    </div>
+                    <div class="trait-item">
+                        <label>Clothing:</label>
+                        <span id="trait-clothing">—</span>
+                        <button class="btn-reroll" onclick="rerollTrait('clothing')">↻</button>
+                    </div>
+                    <div class="trait-item">
+                        <label>Virtue:</label>
+                        <span id="trait-virtue">—</span>
+                        <button class="btn-reroll" onclick="rerollTrait('virtue')">↻</button>
+                    </div>
+                    <div class="trait-item">
+                        <label>Vice:</label>
+                        <span id="trait-vice">—</span>
+                        <button class="btn-reroll" onclick="rerollTrait('vice')">↻</button>
+                    </div>
+                    <div class="trait-item">
+                        <label>Reputation:</label>
+                        <span id="trait-reputation">—</span>
+                        <button class="btn-reroll" onclick="rerollTrait('reputation')">↻</button>
+                    </div>
+                </div>
+
+                <div class="optional-section">
+                    <button class="btn-roll" onclick="rollMisfortune()">🎲 Roll Misfortune (Optional)</button>
+                    <div id="misfortuneDisplay" class="result-display">
+                        <p><strong>Misfortune:</strong> <span id="trait-misfortunes">None</span></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Ability Scores Section -->
+        <section class="creation-section" id="abilities-section">
+            <h2>Ability Scores</h2>
+            <div class="section-content">
+                <button class="btn-roll" onclick="rollAbilities()">🎲 Roll Abilities</button>
+
+                <div class="abilities-grid">
+                    <div class="ability-item" data-ability="kra">
+                        <h3>Kratos (KRA)</h3>
+                        <p class="ability-subtitle">Strength</p>
+                        <div class="ability-value" id="kra-value">—</div>
+                        <div class="dice-rolls" id="kra-dice"></div>
+                        <input type="checkbox" id="swap-kra" name="swap-ability" value="kra">
+                        <label for="swap-kra" class="swap-label">Select to swap</label>
+                    </div>
+                    <div class="ability-item" data-ability="tek">
+                        <h3>Tekhne (TEK)</h3>
+                        <p class="ability-subtitle">Nimbleness</p>
+                        <div class="ability-value" id="tek-value">—</div>
+                        <div class="dice-rolls" id="tek-dice"></div>
+                        <input type="checkbox" id="swap-tek" name="swap-ability" value="tek">
+                        <label for="swap-tek" class="swap-label">Select to swap</label>
+                    </div>
+                    <div class="ability-item" data-ability="thu">
+                        <h3>Thumos (THU)</h3>
+                        <p class="ability-subtitle">Control</p>
+                        <div class="ability-value" id="thu-value">—</div>
+                        <div class="dice-rolls" id="thu-dice"></div>
+                        <input type="checkbox" id="swap-thu" name="swap-ability" value="thu">
+                        <label for="swap-thu" class="swap-label">Select to swap</label>
+                    </div>
+                </div>
+
+                <div id="swapControls" class="swap-controls" style="display: none;">
+                    <p class="info-text">Select two abilities above to swap their scores (one-time only)</p>
+                    <button class="btn-primary" onclick="executeSwap()">Swap Selected Abilities</button>
+                </div>
+
+                <div class="info-box">
+                    <p><strong>Inventory Slots:</strong> <span id="inventorySlots">—</span> (= KRA)</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Stamina & Money Section -->
+        <section class="creation-section" id="stamina-section">
+            <h2>Stamina & Money</h2>
+            <div class="section-content">
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <button class="btn-roll" onclick="rollStamina()">🎲 Roll Stamina</button>
+                        <div class="stat-display">
+                            <h3>Stamina (STA)</h3>
+                            <div class="stat-value" id="stamina-value">—</div>
+                            <p class="stat-note">1d6</p>
+                        </div>
+                    </div>
+                    <div class="stat-item">
+                        <button class="btn-roll" onclick="rollMoney()">🎲 Roll Money</button>
+                        <div class="stat-display">
+                            <h3>Electron Coins</h3>
+                            <div class="stat-value" id="money-value">—</div>
+                            <p class="stat-note">3d6</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Starting Gear Section -->
+        <section class="creation-section" id="gear-section">
+            <h2>Starting Gear</h2>
+            <div class="section-content">
+                <button class="btn-roll" onclick="rollAllGear()">🎲 Roll All Gear</button>
+
+                <div class="inventory-status">
+                    <h3>Inventory Usage</h3>
+                    <div class="inventory-bar">
+                        <div id="inventoryBar" class="inventory-fill"></div>
+                    </div>
+                    <p><span id="slotsUsed">0</span> / <span id="slotsTotal">—</span> slots</p>
+                    <p class="warning" id="inventoryWarning" style="display: none;"></p>
+                </div>
+
+                <div class="gear-list" id="gearList">
+                    <h3>Equipment</h3>
+                    <ul id="equipmentList">
+                        <li class="gear-item default">Three days' rations (1 slot)</li>
+                    </ul>
+                </div>
+
+                <div class="gear-rolls">
+                    <h3>Roll Individual Items</h3>
+                    <button class="btn-roll btn-small" onclick="rollArmor()">Armor</button>
+                    <button class="btn-roll btn-small" onclick="rollHelmetShield()">Helmet/Shield</button>
+                    <button class="btn-roll btn-small" onclick="rollWeapon()">Weapon</button>
+                    <button class="btn-roll btn-small" onclick="rollExpeditionaryGear()">Expeditionary</button>
+                    <button class="btn-roll btn-small" onclick="rollTools()">Tools</button>
+                    <button class="btn-roll btn-small" onclick="rollTrinkets()">Trinkets</button>
+                    <button class="btn-roll btn-small" onclick="rollBonusItem()">Bonus Item</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Character Sheet Section -->
+        <section class="creation-section" id="sheet-section">
+            <h2>Character Sheet</h2>
+            <div class="section-content">
+                <div class="character-sheet" id="characterSheet">
+                    <div class="sheet-header">
+                        <h3 id="sheetName">Character Name</h3>
+                        <p id="sheetOrigin">Origin & Age</p>
+                    </div>
+
+                    <div class="sheet-grid">
+                        <div class="sheet-section">
+                            <h4>Appearance</h4>
+                            <ul id="sheetAppearance"></ul>
+                        </div>
+
+                        <div class="sheet-section">
+                            <h4>Personality</h4>
+                            <ul id="sheetPersonality"></ul>
+                        </div>
+
+                        <div class="sheet-section">
+                            <h4>Abilities</h4>
+                            <ul id="sheetAbilities"></ul>
+                        </div>
+
+                        <div class="sheet-section">
+                            <h4>Combat</h4>
+                            <ul id="sheetCombat"></ul>
+                        </div>
+
+                        <div class="sheet-section sheet-full">
+                            <h4>Inventory (<span id="sheetSlotsUsed">0</span>/<span id="sheetSlotsTotal">0</span> slots)</h4>
+                            <ul id="sheetInventory"></ul>
+                        </div>
+
+                        <div class="sheet-section">
+                            <h4>Money</h4>
+                            <p id="sheetMoney">0 electron coins</p>
+                        </div>
+                    </div>
+
+                    <div class="sheet-actions">
+                        <button class="btn-primary" onclick="printCharacter()">🖨️ Print</button>
+                        <button class="btn-primary" onclick="exportCharacter()">💾 Export Text</button>
+                        <button class="btn-secondary" onclick="resetCharacter()">🔄 Start Over</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Thálassa is based on <a href="https://cairnrpg.com/" target="_blank">Cairn SRD</a> and is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC-BY-SA 4.0</a></p>
+        <p>Character Creator by the Thálassa community</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
