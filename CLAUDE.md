@@ -20,7 +20,7 @@ The repository has a dual structure:
 
 1. **Root directory** - Jekyll website source
    - Markdown files are thin wrappers with Jekyll frontmatter
-   - They use `{% include_relative _build/en/XX_filename.md %}` to include actual content
+   - They use include_relative directives to include actual content from `_build/en/`
    - Example: `character.md` includes `_build/en/05_character.md`
 
 2. **`_build/` directory** - PDF build system and source content
